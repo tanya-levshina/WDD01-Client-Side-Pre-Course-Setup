@@ -4,7 +4,7 @@ A set of videos and tutorials that students should watch ***before*** they start
 
 ## Getting Started with macOS
 
-This section is for anyone who is new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of macOS.
+This section is for anyone new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of macOS.
 
 [Mac Basics animated walkthrough](https://help.apple.com/macos/catalina/mac-basics).
 
@@ -28,7 +28,7 @@ Set up a Github account to access the courseware and challenges.
 
 Then work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common Github tasks.
 
-After completing the tutorials, go through the [Github overview and installation instructions](https://help.github.com/en/desktop/getting-started-with-github-desktop) and get [Github desktop](https://desktop.github.com/) setup.
+After completing the tutorials, go through the [Github desktop overview and installation instructions](https://help.github.com/en/desktop/getting-started-with-github-desktop) and get [Github desktop](https://desktop.github.com/) setup.
 
 - Make sure to install the **Command Line Tools** as well during the install process. 
 
@@ -51,3 +51,13 @@ Install the following software:
 - [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
 
 - [Node.js](https://nodejs.org/en/) Javascript library. Make sure to install the LTS version.
+
+## How the Internet Works
+
+As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+
+## Command Line
+
+For those of you that have raced through the other tasks, check out this video series on using the command-line interface.
+
+- https://app.pluralsight.com/library/courses/meet-command-line
