@@ -44,7 +44,7 @@ Students will need to set up an account at the following sites too:
 
 Install the following software:
 
-- A modern web browser, preferrably [Google Chrome](https://www.google.com/chrome/index.html), or [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/).
+- A modern web browser, preferrably [Google Chrome](https://www.google.com/chrome/index.html), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Brave Browser](https://brave.com/).
 
 - [Slack](https://slack.com/intl/en-nz/) messaging app.
 
