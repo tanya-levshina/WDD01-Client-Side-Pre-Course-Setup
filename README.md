@@ -56,8 +56,12 @@ Install the following software:
 
 As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
-## Command Line
+# Stretch Content
 
-For those of you that have raced through the other tasks, check out this video series on using the command-line interface.
+For those of you that have raced through the other tasks, you can watch these optional videos. You will need to have your Pluralsight account setup to watch some of these.
 
-- https://app.pluralsight.com/library/courses/meet-command-line
+- [Web Development - Executive Briefing](https://app.pluralsight.com/library/courses/web-development-executive-briefing)
+
+- [Git - Big Picture](https://app.pluralsight.com/library/courses/git-big-picture)
+
+- [Command Line Interface](https://app.pluralsight.com/library/courses/meet-command-line)
