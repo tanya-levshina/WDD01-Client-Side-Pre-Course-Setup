@@ -44,6 +44,8 @@ Students will need to set up an account at the following sites too:
 
 Install the following software:
 
+- [Install Git command-line tool](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 - A modern web browser, preferrably [Google Chrome](https://www.google.com/chrome/index.html), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Brave Browser](https://brave.com/).
 
 - [Slack](https://slack.com/intl/en-nz/) messaging app.
