@@ -2,7 +2,7 @@
 
 A set of videos and tutorials that students should watch ***before*** they start on WDD01.
 
-## Getting Started with macOS
+## Part 1. Getting Started with macOS
 
 This section is for anyone new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of macOS.
 
@@ -12,13 +12,13 @@ This section is for anyone new to using macOS, or are returning to macOS from a 
 
 [Some helpful videos to keep you sane when using macOS](https://drive.google.com/drive/folders/1O6Z7bmQgsA04KLa0m1GGo2LjcEV2AVBL?usp=sharing)
 
-## Git
+## Part 2. Watch Git intro video
 
 Git is one of the core tools that developers use daily. Watch this introductory video series on the Git version control system. 
 
 * https://git-scm.com/videos
 
-## Github Account
+## Part 3. Setup Github Account
 
 Github is a hugely popular cloud-hosted version of Git used by millions of software teams. The majority of courseware and challenges are hosted in Github code repositories so you will need a Github account to access the course materials. 
 
@@ -34,13 +34,13 @@ After completing the tutorials, go through the [Github desktop overview and inst
 
 For the first week or so, students will be using Github desktop to manage their Git repositories.
 
-## Other Accounts
+## Part 4. Other Accounts
 
 Students will need to set up an account at the following sites too:
 
 - [Pluralsight](https://www.pluralsight.com/)
 
-## Software
+## Part 5. Software
 
 Install the following software:
 
