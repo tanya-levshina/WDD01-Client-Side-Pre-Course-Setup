@@ -1,8 +1,8 @@
-# WDD01 Client-Side - Pre-Course Setup
+# WDD01 Client-Side - Orientation Week Pre-Course Setup
 
 A set of videos and tutorials that students should watch ***before*** they start on WDD01.
 
-## Part 1. Getting Started with macOS
+## Day 1 - Getting Started with macOS
 
 This section is for anyone new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of macOS.
 
@@ -12,13 +12,15 @@ This section is for anyone new to using macOS, or are returning to macOS from a 
 
 [Some helpful videos to keep you sane when using macOS](https://drive.google.com/drive/folders/1O6Z7bmQgsA04KLa0m1GGo2LjcEV2AVBL?usp=sharing)
 
-## Part 2. Watch Git intro video
+## Day 2 - Git and Github setup
+
+### Watch Git intro video
 
 Git is one of the core tools that developers use daily. Watch this introductory video series on the Git version control system. 
 
 * https://git-scm.com/videos
 
-## Part 3. Setup Github Account
+### Setup Github Account
 
 Github is a hugely popular cloud-hosted version of Git used by millions of software teams. The majority of courseware and challenges are hosted in Github code repositories so you will need a Github account to access the course materials. 
 
@@ -34,13 +36,13 @@ After completing the tutorials, go through the [Github desktop overview and inst
 
 For the first week or so, students will be using Github desktop to manage their Git repositories.
 
-## Part 4. Other Accounts
+## Day 3 - Other Accounts
 
 Students will need to set up an account at the following sites too:
 
 - [Pluralsight](https://www.pluralsight.com/)
 
-## Part 5. Software
+## Day 4 - Software
 
 Install the following software:
 
@@ -54,11 +56,11 @@ Install the following software:
 
 - [Node.js](https://nodejs.org/en/) Javascript library. Make sure to install the LTS version.
 
-## How the Internet Works
+## Day 5 - How the Internet Works
 
 As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
-# Stretch Content
+### Stretch Content
 
 For those of you that have raced through the other tasks, you can watch these optional videos. You will need to have your Pluralsight account setup to watch some of these.
 
