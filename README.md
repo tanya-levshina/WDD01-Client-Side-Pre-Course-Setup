@@ -53,6 +53,10 @@ Install the following software:
 - [Slack](https://slack.com/intl/en-nz/) messaging app.
 
 - [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
+  - Customize it
+    - Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
+      ![Disable VS-Code from auto-accepting code suggestions](./vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
+    
 
 - [Node.js](https://nodejs.org/en/) Javascript library. Make sure to install the LTS version.
 
