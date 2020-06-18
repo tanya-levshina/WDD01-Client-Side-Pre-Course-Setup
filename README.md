@@ -49,6 +49,7 @@ Install the following software:
 - [Install Git command-line tool](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 - A modern web browser, preferrably [Google Chrome](https://www.google.com/chrome/index.html), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Brave Browser](https://brave.com/).
+   - Set your new browser as the default browser for you computer: [Google Chrome](https://support.google.com/chrome/answer/95417?co=GENIE.Platform%3DDesktop&hl=en), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/make-firefox-your-default-browser), or [Brave Browser](https://support.brave.com/hc/en-us/articles/360020406572-How-do-I-set-Brave-to-be-my-Default-Browser-)
 
 - [Slack](https://slack.com/intl/en-nz/) messaging app.
 
