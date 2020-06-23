@@ -4,13 +4,20 @@ A set of videos and tutorials that students should watch ***before*** they start
 
 ## Day 1 - Getting Started with macOS
 
-This section is for anyone new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of macOS.
+This section is for anyone new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of acOS.
 
 [Mac Basics animated walkthrough](https://help.apple.com/macos/catalina/mac-basics).
 
 [Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216).
 
-[Some helpful videos to keep you sane when using macOS](https://drive.google.com/drive/folders/1O6Z7bmQgsA04KLa0m1GGo2LjcEV2AVBL?usp=sharing)
+### Tasks you must complete:
+
+1. [Enable your home folder in finder](https://vimeo.com/431692277/670a619782)
+1. Enable right mouse click
+   1. To set up secondary click and other mouse features, choose Apple () menu > System Preferences, then click Mouse. 
+   1. Tick the option `Secondary click`
+   1. Have a look at the other mouse options while you're at it - you probably want to adjust the tracking speed
+   1. For MacBook laptop trackpads, see [apple help page](https://support.apple.com/en-us/HT207700#:~:text=On%20Mac%20computers%2C%20right%20click,your%20keyboard%20while%20you%20click.)
 
 ## Day 2 - Git and Github setup
 
