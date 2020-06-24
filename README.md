@@ -1,6 +1,6 @@
 # WDD01 Client-Side - Orientation Week Pre-Course Setup
 
-A set of videos and tutorials that students should watch ***before*** they start on WDD01.
+A set of videos and tutorials that students should watch ***before*** they start on WDD01. What is WDD01? Web Design and Development course 1 - Client-Side Web Development.
 
 ## Day 1 - Getting Started with macOS
 
