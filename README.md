@@ -1,24 +1,29 @@
-# WDD01 Client-Side - Pre-Course Setup
+# WDD01 Client-Side - Orientation Week Pre-Course Setup
 
-A set of videos and tutorials that students should watch ***before*** they start on WDD01.
+A set of videos and tutorials that students should watch ***before*** they start on WDD01. What is WDD01? Web Design and Development course 1 - Client-Side Web Development.
 
-## Getting Started with macOS
+## Day 1 - Getting Started with macOS
 
-This section is for anyone new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of macOS.
+This section is for anyone new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of acOS.
 
 [Mac Basics animated walkthrough](https://help.apple.com/macos/catalina/mac-basics).
 
 [Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216).
 
-[Some helpful videos to keep you sane when using macOS](https://drive.google.com/drive/folders/1O6Z7bmQgsA04KLa0m1GGo2LjcEV2AVBL?usp=sharing)
+### Tasks you must complete:
 
-## Git
+1. [Enable your home folder in finder](https://vimeo.com/431692277/670a619782)
+1. [Enable right mouse click](enable-right-mouse-click-in-macos.md)
+
+## Day 2 - Git and Github setup
+
+### Watch Git intro video
 
 Git is one of the core tools that developers use daily. Watch this introductory video series on the Git version control system. 
 
 * https://git-scm.com/videos
 
-## Github Account
+### Setup Github Account
 
 Github is a hugely popular cloud-hosted version of Git used by millions of software teams. The majority of courseware and challenges are hosted in Github code repositories so you will need a Github account to access the course materials. 
 
@@ -34,29 +39,37 @@ After completing the tutorials, go through the [Github desktop overview and inst
 
 For the first week or so, students will be using Github desktop to manage their Git repositories.
 
-## Other Accounts
+## Day 3 - Other Accounts
 
 Students will need to set up an account at the following sites too:
 
 - [Pluralsight](https://www.pluralsight.com/)
 
-## Software
+## Day 4 - Software
 
 Install the following software:
 
+- [Install Git command-line tool](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 - A modern web browser, preferrably [Google Chrome](https://www.google.com/chrome/index.html), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Brave Browser](https://brave.com/).
+   - Set your new browser as the default browser for you computer: [Google Chrome](https://support.google.com/chrome/answer/95417?co=GENIE.Platform%3DDesktop&hl=en), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/make-firefox-your-default-browser), or [Brave Browser](https://support.brave.com/hc/en-us/articles/360020406572-How-do-I-set-Brave-to-be-my-Default-Browser-)
 
 - [Slack](https://slack.com/intl/en-nz/) messaging app.
 
-- [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
-
 - [Node.js](https://nodejs.org/en/) Javascript library. Make sure to install the LTS version.
 
-## How the Internet Works
+- [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
+- Customize VS-Code
+    - Install Live Server extension: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+    - Install Code Runner extension: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+    - Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
+      ![Disable VS-Code from auto-accepting code suggestions](./vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
+
+## Day 5 - How the Internet Works
 
 As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
-# Stretch Content
+### Stretch Content
 
 For those of you that have raced through the other tasks, you can watch these optional videos. You will need to have your Pluralsight account setup to watch some of these.
 
