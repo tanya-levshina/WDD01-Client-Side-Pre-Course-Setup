@@ -1,163 +1,78 @@
 # WDD01 Client-Side - Orientation Week Pre-Course Setup
 
-Welcome to the `Developers Institute`. We will be starting our first semester with the `Client-side course`. But for us to truly get stuck in to building great websites we need to prepare and sharpen our tools. So the first week we will be running through a `pre-course setup`. This will entail setting up our hardware (Apple Mac), installing required software and getting to grips with how to use our software tools. At any point if you get stuck don't hesitate to ask in your Cohort `Slack channel` for help. Our instructors and teaching assistance monitors those channels and will be more than happy to help you resolve your issue.
+A set of videos and tutorials that students should watch ***before*** they start on WDD01. What is WDD01? Web Design and Development course 1 - Client-Side Web Development.
 
 ## Day 1 - Getting Started with macOS
 
-### Update Mac
+This section is for anyone new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of acOS.
 
-First things first. Let us update our Mac to the latest software release:
+[Mac Basics animated walkthrough](https://help.apple.com/macos/catalina/mac-basics).
 
-- [How to update the software on your Mac](https://support.apple.com/en-us/HT201541).
+[Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216).
 
-### Get to know your Mac
+### Tasks you must complete:
 
-This section is for anyone new to using macOS, or are returning to macOS from a much earlier version. Here is a collection of suggested resources to get the ball rolling with the latest version of MacOS:
+1. [Enable your home folder in finder](https://vimeo.com/431692277/670a619782)
+1. [Enable right mouse click](enable-right-mouse-click-in-macos.md)
 
-- [Mac Basics animated walkthrough](https://help.apple.com/macos/catalina/mac-basics).
+## Day 2 - Git and Github setup
 
-- [Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216).
+### Watch Git intro video
 
-### Some suggested tweaks for your Mac
+Git is one of the core tools that developers use daily. Watch this introductory video series on the Git version control system. 
 
-- [Enable your home folder in finder](https://vimeo.com/431692277/670a619782)
-- [Enable right mouse click](enable-right-mouse-click-in-macos.md)
+* https://git-scm.com/videos
 
-## Software
+### Setup Github Account
 
-Install the following software:
+Github is a hugely popular cloud-hosted version of Git used by millions of software teams. The majority of courseware and challenges are hosted in Github code repositories so you will need a Github account to access the course materials. 
 
-### Version Control
+Set up a Github account to access the courseware and challenges.
 
-[Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) by opening up the `terminal` (`⌥option` + `spacebar` and then typing "terminal") and typing in the terminal:
+* https://github.com/join
 
-```bash
-git --version
-```
+Then work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common Github tasks.
 
-`Note:` If you don’t have it installed already, it will prompt you to install it.
+Watch through the [Github walkthough video](https://vimeo.com/433825571/bc1830fb90), and see if you can follow along in your own GitHub account. Try to create and clone a repository, add and commit a file, and push it back to Github. 
 
-### Web-browser
+## Day 3
 
-A modern web browser, preferably [Google Chrome](https://www.google.com/chrome/index.html), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Brave Browser](https://brave.com/).
+### Other Accounts
 
-- Set your new browser as the default browser for your computer: [Google Chrome](https://support.google.com/chrome/answer/95417?co=GENIE.Platform%3DDesktop&hl=en), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/make-firefox-your-default-browser), or [Brave Browser](https://support.brave.com/hc/en-us/articles/360020406572-How-do-I-set-Brave-to-be-my-Default-Browser-)
-- `Note:` You will need Chrome or the Brave browser to use the Whereby conferencing tool.
+Students will need to ensure they have a Pluralsight account. There are some links at the bottom of this page for Pluralsight content to watch if you are ahead.
 
-### Communication
+- [Pluralsight](https://www.pluralsight.com/)
 
 Install the Slack desktop app. Using the desktop app allows you to make video calls to instructors and other students, which can be handy when you want a 1:1.
 
 - [Slack](https://slack.com/intl/en-nz/) messaging app.
-- Learn how to [Make calls in Slack](https://slack.com/intl/en-nz/help/articles/216771908-Make-calls-in-Slack)
+- [Make calls in Slack](https://slack.com/intl/en-nz/help/articles/216771908-Make-calls-in-Slack)
 
-### Programming tools
+### 1:1 with another student
 
-- [Node.js](https://nodejs.org/en/) JavaScript library. Make sure to install the LTS version.
-
-- [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
-- Customize VS-Code
-  - Install: [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  - Install: [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-  - Install: [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
-    ![Disable VS-Code from auto-accepting code suggestions](./vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
-
-### Setting up Pluralsight
-
-You will receive an `email invite` in your `student email account`. This will allow you to join Pluralsight with full access to all the Pluralsight videos. These videos will help you build a strong developers foundation.
-
-## Day 2 - Git and GitHub setup
-
----
-
-### Setup GitHub Account
-
-[GitHub](https://github.com/) is a hugely popular cloud-hosted version of Git used by millions of software teams. The majority of courseware and challenges are hosted in GitHub code repositories so you will need a GitHub account to access the course materials.
-
-To be able to access the material you will need to setup a GitHub account:
-
-- We will be sending you your GitHub invite via your Developers institute email account.
-
-- You can use your developers institute account to start with, and add your personal email at https://github.com/settings/emails if you want to add your own email address
-
-### Learn the basics of Git
-
-Git is one of the core tools that developers use daily. Watch the [Git Basics](https://git-scm.com/videos) introductory video series on the Git version control system.
-
-#### Video tutorial of a GitHub workflow using Visual Studio Code:
-
-[![Git example](img/git_example_video.jpg)](https://vimeo.com/433825571/bc1830fb90)
-
-### Self-learning Challenge
-
-Work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common GitHub tasks.
-
-### Stretch Content
-
-Get to know git and GitHub better:
-
-- [GitHub Guides](https://guides.github.com/)
-- [GitHub Training & Guides YouTube channel](https://www.youtube.com/user/GitHubGuides/featured)
-
-At this stage you should have the basic understanding of how to `git clone`, `git add`, `git commit`, `git push`.
-
-`Note:` getting to grips with git is a marathon and not a sprint. So take it easy.
-
-## Day 3
+Today you will be randomly assigned another student to catch up with. During the day, give them a call on Slack. Find out some more about each other, and run through what you have done so far for the pre-course setup. Help each other get up to speed by sharing what you have done so far, and tips and tricks you have picked up.
 
 ### Git practice, and getting to know each other
 
 Complete today's Git challenge: [Get to know your accountability buddy](git-challenge/git-challenge.md)
 
-### Password management
+## Day 4 - Software
 
-As a future web developer security needs to always be in front of your mind. Not just when developing websites but, also while managing your own online security.
+Install the following software:
 
-`Password managers` are one of our frontline security tools. Password managers store your login information for all the websites you use and help you log into them automatically. They encrypt your password database with a master password (the master password is the only one you have to remember).It also generates them for you, so that each website has a strong unique password. You only have to remember your master password
+- [Install Git command-line tool](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-Please check all the email addresses you use with a website called [Have I Been PWNED](https://haveibeenpwned.com/) to see if any of your online accounts associated with your emails accounts have been compromised.
-If you have been using the internet for some time, there is an unfortunately high chance the password has been compromised.
+- A modern web browser, preferrably [Google Chrome](https://www.google.com/chrome/index.html), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Brave Browser](https://brave.com/).
+   - Set your new browser as the default browser for you computer: [Google Chrome](https://support.google.com/chrome/answer/95417?co=GENIE.Platform%3DDesktop&hl=en), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/make-firefox-your-default-browser), or [Brave Browser](https://support.brave.com/hc/en-us/articles/360020406572-How-do-I-set-Brave-to-be-my-Default-Browser-)
 
-If your email is compromised, you need to fix that by:
+- [Node.js](https://nodejs.org/en/) Javascript library. Make sure to install the LTS version.
 
-1. Resetting your passwords (unless you already have since the breach date). Any account where you used the same password is potentially compromised.
-1. Stop using the same 3 passwords for everything
-   - How... Sticky notes? Add a number on the end? No 🤦 ! Time to use a password manager 😎 ...
-1. Use a password manager to generate and remember all your passwords
-   - Choose a good master password. Consider a phrase instead of a word. Don't use an old compromised password for this. Don't make it too hard to remember, as forgetting would be a disaster.
-   - Us instructors, use [KeePassXC](https://keepassxc.org/) and [LastPass](https://www.lastpass.com/), and other staff use [Dashlane](https://www.dashlane.com/)
-   - All three options are plenty secure. KeePassXC is the most secure option, but unfortunately it's not hosted online (passwords saved to your disk, encrypted with your master password)
-   - LastPass and Dashlane store passwords on their online server, encrypted with your master password. This allows them to be easily used between multiple computers.
-
-### SSH guide
-
-### Set Visual Studio Code as Gits' default merge editor
-
-Save yourself the hassle of having to learn terminal text editors (like vim) by running these 4 commands:
-
-```bash
-git config --global merge.tool vscode
-git config --global mergetool.vscode.cmd "code --wait $MERGED"
-git config --global diff.tool vscode
-git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
-```
-
-`Note:` copy, past and run the commands inside your terminal.
-![Copy past terminal commands](/img/copy_past_terminal.gif)
-
-### Launching Visual Studio Code from the command line
-
-You can also run VS Code from the terminal by typing 'code' after adding it to the path:
-
-- Launch VS Code.
-- Open the Command Palette (⇧⌘P) and type `shell command` to find the Shell Command: `Install 'code' command in PATH` command.
-
-  ![shell command](/img/shell-command.png)
-
-- Restart the terminal for the new \$PATH value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder.
-
-## Day 4
+- [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
+- Customize VS-Code
+    - Install Live Server extension: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+    - Install Code Runner extension: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+    - Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
+      ![Disable VS-Code from auto-accepting code suggestions](./vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
 
 ## Day 5 - How the Internet Works
 
