@@ -80,6 +80,12 @@ To be able to access the material you will need to setup a GitHub account:
 
 Git is one of the core tools that developers use daily. Watch the [Git Basics](https://git-scm.com/videos) introductory video series on the Git version control system.
 
+#### Example of GitHub workflow using Visual Studio Code:
+
+[Git Example](<(https://vimeo.com/433825571/bc1830fb90)>)
+
+[![Git example](img/git_example_video.jpg)](https://vimeo.com/433825571/bc1830fb90)
+
 ### Self-learning Challenge
 
 Work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common GitHub tasks.
