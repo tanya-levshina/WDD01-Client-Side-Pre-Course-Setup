@@ -33,11 +33,7 @@ Set up a Github account to access the courseware and challenges.
 
 Then work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common Github tasks.
 
-After completing the tutorials, go through the [Github desktop overview and installation instructions](https://help.github.com/en/desktop/getting-started-with-github-desktop) and get [Github desktop](https://desktop.github.com/) setup.
-
-- Make sure to install the **Command Line Tools** as well during the install process. 
-
-For the first week or so, students will be using Github desktop to manage their Git repositories.
+Watch through the [Github walkthough video](https://vimeo.com/433825571/bc1830fb90), and see if you can follow along in your own GitHub account. Try to create and clone a repository, add and commit a file, and push it back to Github. 
 
 ## Day 3
 
