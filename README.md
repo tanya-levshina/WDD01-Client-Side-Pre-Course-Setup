@@ -1,6 +1,6 @@
 # WDD01 Client-Side - Orientation Week Pre-Course Setup
 
-Welcome to the `Developers Institute`. We will be starting our first semester with the `Client-side course`. But for us to truelly get down and dirty building great websites we need to prepare and sharpen our tools. So the first week we will be running through a `pre-course setup`. This will entail setting up our hardware (Apple Mac), installing required software and getting to grips with how to use our software tools. At anypoint if you get stuck don't hesistate to ask in your Cohort `Slack channel` for help. Our instructors and teaching assistance monitors those channels and will be more then happy to help you resolve your issue.
+Welcome to the `Developers Institute`. We will be starting our first semester with the `Client-side course`. But for us to truly get stuck in building great websites we need to prepare and sharpen our tools. So the first week we will be running through a `pre-course setup`. This will entail setting up our hardware (Apple Mac), installing required software and getting to grips with how to use our software tools. At any point if you get stuck don't hesitate to ask in your Cohort `Slack channel` for help. Our instructors and teaching assistance monitors those channels and will be more than happy to help you resolve your issue.
 
 ## Day 1 - Getting Started with macOS
 
@@ -120,14 +120,14 @@ If your email is compromised, you need to fix that by:
 1. Use a password manager to generate and remember all your passwords
    - Choose a good master password. Consider a phrase instead of a word. Don't use an old compromised password for this. Don't make it too hard to remember, as forgetting would be a disaster.
    - Us instructors, use [KeePassXC](https://keepassxc.org/) and [LastPass](https://www.lastpass.com/), and other staff use [Dashlane](https://www.dashlane.com/)
-   - All three options are plenty secure. KeePassXC is the most secure option, but unfortunatly it's not hosted online (passwords saved to your disk, encrypted with your master password)
+   - All three options are plenty secure. KeePassXC is the most secure option, but unfortunately it's not hosted online (passwords saved to your disk, encrypted with your master password)
    - LastPass and Dashlane store passwords on their online server, encrypted with your master password. This allows them to be easily used between multiple computers.
 
 ### SSH guide
 
 ### Set Visual Studio Code as Gits' default merge editor
 
-Save yourself the hastle of having to learn terminal text editors (like vim) by running these 4 commands:
+Save yourself the hassle of having to learn terminal text editors (like vim) by running these 4 commands:
 
 ```bash
 git config --global merge.tool vscode
