@@ -39,11 +39,26 @@ After completing the tutorials, go through the [Github desktop overview and inst
 
 For the first week or so, students will be using Github desktop to manage their Git repositories.
 
-## Day 3 - Other Accounts
+## Day 3
 
-Students will need to set up an account at the following sites too:
+### Other Accounts
+
+Students will need to ensure they have a Pluralsight account. There are some links at the bottom of this page for Pluralsight content to watch if you are ahead.
 
 - [Pluralsight](https://www.pluralsight.com/)
+
+Install the Slack desktop app. Using the desktop app allows you to make video calls to instructors and other students, which can be handy when you want a 1:1.
+
+- [Slack](https://slack.com/intl/en-nz/) messaging app.
+- [Make calls in Slack](https://slack.com/intl/en-nz/help/articles/216771908-Make-calls-in-Slack)
+
+### 1:1 with another student
+
+Today you will be randomly assigned another student to catch up with. During the day, give them a call on Slack. Find out some more about each other, and run through what you have done so far for the pre-course setup. Help each other get up to speed by sharing what you have done so far, and tips and tricks you have picked up.
+
+### Git practice, and getting to know each other
+
+Complete today's Git challenge: [Get to know your accountability buddy](git-challenge/git-challenge.md)
 
 ## Day 4 - Software
 
@@ -53,8 +68,6 @@ Install the following software:
 
 - A modern web browser, preferrably [Google Chrome](https://www.google.com/chrome/index.html), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Brave Browser](https://brave.com/).
    - Set your new browser as the default browser for you computer: [Google Chrome](https://support.google.com/chrome/answer/95417?co=GENIE.Platform%3DDesktop&hl=en), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/make-firefox-your-default-browser), or [Brave Browser](https://support.brave.com/hc/en-us/articles/360020406572-How-do-I-set-Brave-to-be-my-Default-Browser-)
-
-- [Slack](https://slack.com/intl/en-nz/) messaging app.
 
 - [Node.js](https://nodejs.org/en/) Javascript library. Make sure to install the LTS version.
 
