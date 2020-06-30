@@ -1,8 +1,8 @@
 # WDD01 Client-Side - Orientation Week Pre-Course Setup
 
-## Day 1 - Getting Started with macOS
+Welcome to the `Developers Institute`. We will be starting our first semester with the `Client-side course`. But for us to truelly get down and dirty building great websites we need to prepare and sharpen our tools. So the first week we will be running through a `pre-course setup`. This will entail setting up our hardware (Apple Mac), installing required software and getting to grips with how to use our software tools. At anypoint if you get stuck don't hesistate to ask in your Cohort `Slack channel` for help. Our instructors and teaching assistance monitors those channels and will be more then happy to help you resolve your issue.
 
----
+## Day 1 - Getting Started with macOS
 
 ### Update Mac
 
@@ -74,23 +74,21 @@ You will receive an `email invite` in your `student email account`. This will al
 
 To be able to access the material you will need to setup a GitHub account:
 
-- [Register a GitHub account](https://github.com/join). You can use your developers institute account to start with, and add your personal email at https://github.com/settings/emails if you want to add your own email address:
+- We will be sending you your GitHub invite via your Developers institute email account.
+
+- You can use your developers institute account to start with, and add your personal email at https://github.com/settings/emails if you want to add your own email address
 
 ### Learn the basics of Git
 
 Git is one of the core tools that developers use daily. Watch the [Git Basics](https://git-scm.com/videos) introductory video series on the Git version control system.
 
-#### Example of GitHub workflow using Visual Studio Code:
-
-[Git Example](<(https://vimeo.com/433825571/bc1830fb90)>)
+#### Video tutorial of a GitHub workflow using Visual Studio Code:
 
 [![Git example](img/git_example_video.jpg)](https://vimeo.com/433825571/bc1830fb90)
 
 ### Self-learning Challenge
 
 Work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common GitHub tasks.
-
-At this stage you should have the basic understanding of how to `git clone`, `git add`, `git commit`, `git push`.
 
 ### Stretch Content
 
@@ -99,19 +97,62 @@ Get to know git and GitHub better:
 - [GitHub Guides](https://guides.github.com/)
 - [GitHub Training & Guides YouTube channel](https://www.youtube.com/user/GitHubGuides/featured)
 
+At this stage you should have the basic understanding of how to `git clone`, `git add`, `git commit`, `git push`.
+
 `Note:` getting to grips with git is a marathon and not a sprint. So take it easy.
 
 ## Day 3
 
----
+### Password management
+
+As a future web developer security needs to always be in front of your mind. Not just when developing websites but, also while managing your own online security.
+
+`Password managers` are one of our frontline security tools. Password managers store your login information for all the websites you use and help you log into them automatically. They encrypt your password database with a master password (the master password is the only one you have to remember).It also generates them for you, so that each website has a strong unique password. You only have to remember your master password
+
+Please check all the email addresses you use with a website called [Have I Been PWNED](https://haveibeenpwned.com/) to see if any of your online accounts associated with your emails accounts have been compromised.
+If you have been using the internet for some time, there is an unfortunately high chance the password has been compromised.
+
+If your email is compromised, you need to fix that by:
+
+1. Resetting your passwords (unless you already have since the breach date). Any account where you used the same password is potentially compromised.
+1. Stop using the same 3 passwords for everything
+   - How... Sticky notes? Add a number on the end? No 🤦 ! Time to use a password manager 😎 ...
+1. Use a password manager to generate and remember all your passwords
+   - Choose a good master password. Consider a phrase instead of a word. Don't use an old compromised password for this. Don't make it too hard to remember, as forgetting would be a disaster.
+   - Us instructors, use [KeePassXC](https://keepassxc.org/) and [LastPass](https://www.lastpass.com/), and other staff use [Dashlane](https://www.dashlane.com/)
+   - All three options are plenty secure. KeePassXC is the most secure option, but unfortunatly it's not hosted online (passwords saved to your disk, encrypted with your master password)
+   - LastPass and Dashlane store passwords on their online server, encrypted with your master password. This allows them to be easily used between multiple computers.
+
+### SSH guide
+
+### Set Visual Studio Code as Gits' default merge editor
+
+Save yourself the hastle of having to learn terminal text editors (like vim) by running these 4 commands:
+
+```bash
+git config --global merge.tool vscode
+git config --global mergetool.vscode.cmd "code --wait $MERGED"
+git config --global diff.tool vscode
+git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
+```
+
+`Note:` copy, past and run the commands inside your terminal.
+![Copy past terminal commands](/img/copy_past_terminal.gif)
+
+### Launching Visual Studio Code from the command line
+
+You can also run VS Code from the terminal by typing 'code' after adding it to the path:
+
+- Launch VS Code.
+- Open the Command Palette (⇧⌘P) and type `shell command` to find the Shell Command: `Install 'code' command in PATH` command.
+
+  ![shell command](/img/shell-command.png)
+
+- Restart the terminal for the new \$PATH value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder.
 
 ## Day 4
 
----
-
 ## Day 5 - How the Internet Works
-
----
 
 As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
