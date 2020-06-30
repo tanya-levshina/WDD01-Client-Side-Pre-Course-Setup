@@ -1,71 +1,111 @@
 # WDD01 Client-Side - Orientation Week Pre-Course Setup
 
-A set of videos and tutorials that students should watch ***before*** they start on WDD01. What is WDD01? Web Design and Development course 1 - Client-Side Web Development.
-
 ## Day 1 - Getting Started with macOS
 
-This section is for anyone new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of acOS.
+---
 
-[Mac Basics animated walkthrough](https://help.apple.com/macos/catalina/mac-basics).
+### Update Mac
 
-[Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216).
+First things first. Let us update our Mac to the latest software release:
 
-### Tasks you must complete:
+- [How to update the software on your Mac](https://support.apple.com/en-us/HT201541).
 
-1. [Enable your home folder in finder](https://vimeo.com/431692277/670a619782)
-1. [Enable right mouse click](enable-right-mouse-click-in-macos.md)
+### Get to know your Mac
 
-## Day 2 - Git and Github setup
+This section is for anyone new to using macOS, or are returning to macOS from a much earlier version. Here is a collection of suggested resources to get the ball rolling with the latest version of MacOS:
 
-### Watch Git intro video
+- [Mac Basics animated walkthrough](https://help.apple.com/macos/catalina/mac-basics).
 
-Git is one of the core tools that developers use daily. Watch this introductory video series on the Git version control system. 
+- [Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216).
 
-* https://git-scm.com/videos
+### Some suggested tweaks for your Mac
 
-### Setup Github Account
+- [Enable your home folder in finder](https://vimeo.com/431692277/670a619782)
+- [Enable right mouse click](enable-right-mouse-click-in-macos.md)
 
-Github is a hugely popular cloud-hosted version of Git used by millions of software teams. The majority of courseware and challenges are hosted in Github code repositories so you will need a Github account to access the course materials. 
-
-Set up a Github account to access the courseware and challenges.
-
-* https://github.com/join
-
-Then work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common Github tasks.
-
-After completing the tutorials, go through the [Github desktop overview and installation instructions](https://help.github.com/en/desktop/getting-started-with-github-desktop) and get [Github desktop](https://desktop.github.com/) setup.
-
-- Make sure to install the **Command Line Tools** as well during the install process. 
-
-For the first week or so, students will be using Github desktop to manage their Git repositories.
-
-## Day 3 - Other Accounts
-
-Students will need to set up an account at the following sites too:
-
-- [Pluralsight](https://www.pluralsight.com/)
-
-## Day 4 - Software
+## Software
 
 Install the following software:
 
-- [Install Git command-line tool](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+### Version Control
 
-- A modern web browser, preferrably [Google Chrome](https://www.google.com/chrome/index.html), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Brave Browser](https://brave.com/).
-   - Set your new browser as the default browser for you computer: [Google Chrome](https://support.google.com/chrome/answer/95417?co=GENIE.Platform%3DDesktop&hl=en), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/make-firefox-your-default-browser), or [Brave Browser](https://support.brave.com/hc/en-us/articles/360020406572-How-do-I-set-Brave-to-be-my-Default-Browser-)
+[Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) by opening up the `terminal` (`⌥option` + `spacebar` and then typing "terminal") and typing in the terminal:
 
-- [Slack](https://slack.com/intl/en-nz/) messaging app.
+```bash
+git --version
+```
 
-- [Node.js](https://nodejs.org/en/) Javascript library. Make sure to install the LTS version.
+`Note:` If you don’t have it installed already, it will prompt you to install it.
+
+### Web-browser
+
+A modern web browser, preferably [Google Chrome](https://www.google.com/chrome/index.html), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Brave Browser](https://brave.com/).
+
+- Set your new browser as the default browser for your computer: [Google Chrome](https://support.google.com/chrome/answer/95417?co=GENIE.Platform%3DDesktop&hl=en), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/make-firefox-your-default-browser), or [Brave Browser](https://support.brave.com/hc/en-us/articles/360020406572-How-do-I-set-Brave-to-be-my-Default-Browser-)
+- `Note:` You will need Chrome or the Brave browser to use the Whereby conferencing tool.
+
+### Communication
+
+[Slack](https://slack.com/intl/en-nz/) messaging app.
+
+### Programming tools
+
+- [Node.js](https://nodejs.org/en/) JavaScript library. Make sure to install the LTS version.
 
 - [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
 - Customize VS-Code
-    - Install Live Server extension: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-    - Install Code Runner extension: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
-    - Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
-      ![Disable VS-Code from auto-accepting code suggestions](./vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
+  - Install: [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  - Install: [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+  - Install: [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
+    ![Disable VS-Code from auto-accepting code suggestions](./vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
+
+### Setting up Pluralsight
+
+You will receive an `email invite` in your `student email account`. This will allow you to join Pluralsight with full access to all the Pluralsight videos. These videos will help you build a strong developers foundation.
+
+## Day 2 - Git and GitHub setup
+
+---
+
+### Setup GitHub Account
+
+[GitHub](https://github.com/) is a hugely popular cloud-hosted version of Git used by millions of software teams. The majority of courseware and challenges are hosted in GitHub code repositories so you will need a GitHub account to access the course materials.
+
+To be able to access the material you will need to setup a GitHub account:
+
+- [Register a GitHub account](https://github.com/join). You can use your developers institute account to start with, and add your personal email at https://github.com/settings/emails if you want to add your own email address:
+
+### Learn the basics of Git
+
+Git is one of the core tools that developers use daily. Watch the [Git Basics](https://git-scm.com/videos) introductory video series on the Git version control system.
+
+### Self-learning Challenge
+
+Work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common GitHub tasks.
+
+At this stage you should have the basic understanding of how to `git clone`, `git add`, `git commit`, `git push`.
+
+### Stretch Content
+
+Get to know git and GitHub better:
+
+- [GitHub Guides](https://guides.github.com/)
+- [GitHub Training & Guides YouTube channel](https://www.youtube.com/user/GitHubGuides/featured)
+
+`Note:` getting to grips with git is a marathon and not a sprint. So take it easy.
+
+## Day 3
+
+---
+
+## Day 4
+
+---
 
 ## Day 5 - How the Internet Works
+
+---
 
 As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
