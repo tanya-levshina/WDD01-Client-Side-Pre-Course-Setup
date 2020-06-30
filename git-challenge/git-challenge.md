@@ -31,10 +31,10 @@ This practice challenge will help you get familiar with `git`, and also help you
 
       ![Clone repo in VS Code](git-challenge-05.png)
 
-   2. If you already have a project open, you can use keyboard shortcuts. Type: `cmd-shift-p` to open the command pallet. Then type: `git clone`, you should see it appear in the dropdown, push enter. Select `Clone from GitHub` and then search for your repo: `my-accountability-buddy`
+   2. If you already have a project open, you can use keyboard shortcuts. Type: `cmd-shift-p` to open the command pallete. Then type: `git clone`, you should see it appear in the dropdown, push enter. Select `Clone from GitHub` and then search for your repo: `my-accountability-buddy`
 
-      ![Clone from command pallet](git-challenge-06.png)
-      ![Search for repo in command pallet](git-challenge-07.png)
+      ![Clone from command pallete](git-challenge-06.png)
+      ![Search for repo in command pallete](git-challenge-07.png)
 
 4. Once cloned, open your project. You can do this by clicking `Open` in the popup that appears in the bottom right of VS Code
 
