@@ -57,7 +57,7 @@ This practice challenge will help you get familiar with `git`, and also help you
 
    What makes you grumpy?
 
-   Can you share a bit about your cultural heritage?
+   Can you tell me a bit about either your ethnic culture (Māori, Tongan, Aussie, Kiwi, South African etc), or your personal culture (foody, outdoor, musician, etc)
 
    How does your culture, influence how you go by your daily routine?
 
