@@ -48,16 +48,15 @@ Install a modern web browser, preferably [Google Chrome](https://www.google.com/
 
 Install the Slack desktop app. Using the desktop app allows you to make video calls to instructors and other students, which can be handy when you want a 1:1.
 
-- [Slack](https://slack.com/intl/en-nz/) messaging app.
+- [Slack](https://slack.com/intl/en-nz/) messaging app.Ensure you install the desktop app as this will enable you the ability to make video calls to fellow students and instructors.
 - [Make calls in Slack](https://slack.com/intl/en-nz/help/articles/216771908-Make-calls-in-Slack)
 
 ### Programming tools
 
 - [Node.js](https://nodejs.org/en/) JavaScript runtime. Make sure to install the LTS version.
 
-
-- [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
-- Customize VS-Code
+* [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
+* Customize VS-Code
   - Install: [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - Install: [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - Install: [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -111,7 +110,7 @@ Let us create and add your public key to GitHub:
 
 ### Learn the basics of Git
 
-Git is one of the core tools that developers use daily. Watch the [Git Basics](https://git-scm.com/videos) introductory video series on the Git version control system.
+Git is one of the core tools that developers use daily. Watch the [Git Basics](https://git-scm.com/videos) introductory video series on the Git version control system. There are loads of information to absorb so don't feel overwhelmed by it all as long as you know how to `git clone`, `git add`, `git commit` and `git push` you will be all good.
 
 #### Video tutorial of a GitHub workflow using Visual Studio Code:
 
@@ -140,7 +139,7 @@ Complete today's Git challenge: [Get to know your accountability buddy](git-chal
 
 ### Password management
 
-As a future web developer security needs to always be in front of your mind. Not just when developing websites but, also while managing your own online security.
+As a future web developer security needs to always be in the front of your mind. Not just when developing websites but, also while managing your own online security.
 
 `Password managers` are one of our frontline security tools. Password managers store your login information for all the websites you use and help you log into them automatically. They encrypt your password database with a master password (the master password is the only one you have to remember).It also generates them for you, so that each website has a strong unique password. You only have to remember your master password
 
