@@ -169,7 +169,8 @@ git config --global diff.tool vscode
 git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
 ```
 
-`Note:` copy, past and run the commands inside your terminal.
+`Note:` copy, paste and run the commands inside your terminal.
+
 ![Copy past terminal commands](/img/copy_past_terminal.gif)
 
 ### Launching Visual Studio Code from the command line
