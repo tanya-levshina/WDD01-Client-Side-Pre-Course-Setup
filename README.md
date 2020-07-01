@@ -46,7 +46,10 @@ Install a modern web browser, preferably [Google Chrome](https://www.google.com/
 
 ### Communication
 
-[Slack](https://slack.com/intl/en-nz/) messaging app.
+Install the Slack desktop app. Using the desktop app allows you to make video calls to instructors and other students, which can be handy when you want a 1:1.
+
+- [Slack](https://slack.com/intl/en-nz/) messaging app.
+- [Make calls in Slack](https://slack.com/intl/en-nz/help/articles/216771908-Make-calls-in-Slack)
 
 ### Programming tools
 
@@ -129,6 +132,10 @@ At this stage you should have the basic understanding of how to `git clone`, `gi
 `Note:` getting to grips with git is a marathon and not a sprint. So take it easy.
 
 ## Day 3
+
+### Get to know your accountability buddy with git
+
+Complete today's Git challenge: [Get to know your accountability buddy](git-challenge/git-challenge.md)
 
 ### Password management
 
