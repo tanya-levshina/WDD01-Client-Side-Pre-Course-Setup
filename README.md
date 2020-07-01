@@ -187,3 +187,8 @@ For those of you that have raced through the other tasks, you can watch these op
 - [Git - Big Picture](https://app.pluralsight.com/library/courses/git-big-picture)
 
 - [Command Line Interface](https://app.pluralsight.com/library/courses/meet-command-line)
+
+If you have watched those videos, you could start exploring the following websites, to get familiarise yourself with HTML and CSS.
+
+- [Learn HTML on W3Schools](https://www.w3schools.com/html/default.asp)
+- [HTML Basics on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
