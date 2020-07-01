@@ -58,15 +58,14 @@ Install a modern web browser, preferably [Google Chrome](https://www.google.com/
   - Install: [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - Install: [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
-    ![Disable VS-Code from auto-accepting code suggestions](./vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
+
+![Disable VS-Code from auto-accepting code suggestions](img/vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
 
 ### Setting up Pluralsight
 
 You will receive an `email invite` in your `student email account`. This will allow you to join Pluralsight with full access to all the Pluralsight videos. These videos will help you build a strong developers foundation.
 
 ## Day 2 - Git and GitHub setup
-
----
 
 ### Setup GitHub Account
 
@@ -77,6 +76,34 @@ To be able to access the material you will need to setup a GitHub account:
 - We will be sending you your GitHub invite via your Developers institute email account.
 
 - You can use your developers institute account to start with, and add your personal email at https://github.com/settings/emails if you want to add your own email address
+
+### Setting up an SSH key
+
+When working with a GitHub repository, you'll often need to identify yourself to GitHub using your username and password. An SSH key is an alternate way to identify yourself that doesn't require you to enter you username and password every time.
+
+SSH keys come in pairs, a public key that gets shared with services like GitHub, and a private key that is stored only on your computer. If the keys match, you're granted access.
+
+The cryptography behind SSH keys ensures that no one can reverse engineer your private key from the public one.
+
+Let us create and add your public key to GitHub:
+
+1. Run the follow script in your terminal:
+
+   ```bash
+   echo -e $(bash <(curl -s https://raw.githubusercontent.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/master/setup-ssh.sh) YOUR_EMAIL_HERE)
+   ```
+
+   `Note:` Remember to replace "`YOUR_EMAIL_HERE`" with your GitHub email address.
+
+1. The script will automatically copy your public key to your clipboard and open GitHub in your browser. All you need to do is `paste` (⌥option + v) the public key into GitHub and provide it with a title of your choice.
+
+1. There after you need to test the key by running:
+   ```bash
+   ssh -T git@github.com
+   ```
+1. If you receive a "You've successfully authenticated" message then you have successfully added a SSH key to GitHub
+
+![Adding SSH key to GitHub](img/ssh_key_script.gif)
 
 ### Learn the basics of Git
 
@@ -122,8 +149,6 @@ If your email is compromised, you need to fix that by:
    - Us instructors, use [KeePassXC](https://keepassxc.org/) and [LastPass](https://www.lastpass.com/), and other staff use [Dashlane](https://www.dashlane.com/)
    - All three options are plenty secure. KeePassXC is the most secure option, but unfortunately it's not hosted online (passwords saved to your disk, encrypted with your master password)
    - LastPass and Dashlane store passwords on their online server, encrypted with your master password. This allows them to be easily used between multiple computers.
-
-### SSH guide
 
 ### Set Visual Studio Code as Gits' default merge editor
 
