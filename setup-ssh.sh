@@ -22,6 +22,8 @@ then
   exit
 fi
 
+mkdir ~/.ssh
+
 if [ -e ~/.ssh/config ]
 then
   echo "ssh config file found, backing up config."
@@ -30,7 +32,7 @@ fi
 
 echo "Creating SSH keys ..."
 # run quite mode
-ssh-keygen -t rsa -b 4096 -q -N '' -f $SSH_KEYFILE -C $1
+ssh-keygen -t rsa -b 4096 -q -N '' -f $SSH_KEYFILE -C $1 <<< y
 
 echo "Adding keys to ssh-agent ..."
 eval "$(ssh-agent -s)"
