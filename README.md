@@ -53,7 +53,8 @@ Install the Slack desktop app. Using the desktop app allows you to make video ca
 
 ### Programming tools
 
-- [Node.js](https://nodejs.org/en/) JavaScript library. Make sure to install the LTS version.
+- [Node.js](https://nodejs.org/en/) JavaScript runtime. Make sure to install the LTS version.
+
 
 - [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
 - Customize VS-Code
