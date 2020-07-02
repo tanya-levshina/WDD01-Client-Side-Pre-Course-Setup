@@ -188,6 +188,21 @@ Go through the following list and see how you're going. If you need help with an
 - [ ] I have set my default browser to Chrome, Brave or Firefox
 - [ ] I can confidently do a standup with my accountability buddy
 
+## Stretch Content
+
+For those of you that have raced through the other tasks, you can watch these optional videos. You will need to have your Pluralsight account setup to watch some of these.
+
+- [Web Development - Executive Briefing](https://app.pluralsight.com/library/courses/web-development-executive-briefing)
+
+- [Git - Big Picture](https://app.pluralsight.com/library/courses/git-big-picture)
+
+- [Command Line Interface](https://app.pluralsight.com/library/courses/meet-command-line)
+
+If you have watched those videos, you could start exploring the following websites, to familiarise yourself with HTML and CSS.
+
+- [Learn HTML on W3Schools](https://www.w3schools.com/html/default.asp)
+- [HTML Basics on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
 ## Finished? Some more things to try
 
 ### Get started on HTML
@@ -223,18 +238,3 @@ Search around for some productivity tools that might help you study, or improve 
 - [Notion](https://www.notion.so/) - a second brain, document all your thoughts, snippets, or anything you can imagine
 - [Trello](https://trello.com) - a simple task tracking board. Create columns, add tasks to columns, and drag the tasks from column to column
 - Sync your Gmail and Calendar to the built in Mac apps, or find some better ones in the App Store
-
-## Stretch Content
-
-For those of you that have raced through the other tasks, you can watch these optional videos. You will need to have your Pluralsight account setup to watch some of these.
-
-- [Web Development - Executive Briefing](https://app.pluralsight.com/library/courses/web-development-executive-briefing)
-
-- [Git - Big Picture](https://app.pluralsight.com/library/courses/git-big-picture)
-
-- [Command Line Interface](https://app.pluralsight.com/library/courses/meet-command-line)
-
-If you have watched those videos, you could start exploring the following websites, to familiarise yourself with HTML and CSS.
-
-- [Learn HTML on W3Schools](https://www.w3schools.com/html/default.asp)
-- [HTML Basics on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
