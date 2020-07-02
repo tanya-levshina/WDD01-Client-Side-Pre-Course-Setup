@@ -178,7 +178,53 @@ You can also run VS Code from the terminal by typing 'code' after adding it to t
 
 As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
-### Stretch Content
+## Recap
+
+Go through the following list and see how you're going. If you need help with anything, let your instrutor know. 
+
+- [ ] I have a GitHub account
+- [ ] I can `clone`, `add`, `commit`, and `push` to and from Github, using the Terminal in VS Code
+- [ ] I have access to Pluralsight
+- [ ] I have set my default browser to Chrome, Brave or Firefox
+- [ ] I can confidently do a standup with my accountability buddy
+
+## Finished? Some more things to try
+
+### Get started on HTML
+
+Next week we will be beginning with HTML. You could get a head start by reading about HTML. Some useful links:
+
+- [W3Schools](https://www.w3schools.com/html/default.asp)
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+
+### Explore code from code sharing websites
+
+There are many code sharing sites that are helpful to bash out some prototype code, or see how other people write code. Some favourites you could explore and tinker with:
+
+- [Glitch](https://glitch.com/). You can build and deploy applications on this site, but also you can look at other peoples code, and remix it to be your own. They have a [learn to code](https://glitch.com/@glitch/learn-to-code) section too. 
+- [Codepen](https://codepen.io/) is somewhere you can build, test, and discover front-end code. They have an [explore](https://codepen.io/picks/pens/) section where you can find cool Codepens that other people have written. 
+- [CodeSandbox](https://codesandbox.io) is an online tool to write and share code. They have an [explore](https://codesandbox.io/explore) section where you can look at featured CodeSandboxes.
+
+### Deploy a website
+
+There are many tools that make deploying a website easy. If you have an HTML webpage in a GitHub repo, you could try some of the following ways to get it on the internet. If you wanted to try, but don't have an HTML page, let your instructor know and they can help you out. 
+
+- [Netlify](https://www.netlify.com/) - a favourite
+- [GitHub Pages](https://pages.github.com/) - you can deploy websites straight from GitHub
+- [Glitch](https://glitch.com/create) - you can write your HTML on Glitch and it will deploy it to the internet for you
+
+### Get organised
+
+Search around for some productivity tools that might help you study, or improve your experience on your mac. You can find apps in the App Store, that comes with your Mac. Some recommendations:
+
+- [Toggl](https://toggl.com/) - track your time. It helps with self awareness, and understanding your productivy
+- [Toggle blog](https://toggl.com/blog/) - there are great articles on here for time management and to bust procrastination
+- [Pocket](https://getpocket.com/) - an app to save bookmarks for the articles you read
+- [Notion](https://www.notion.so/) - a second brain, document all your thoughts, snippets, or anything you can imagine
+- [Trello](https://trello.com) - a simple task tracking board. Create columns, add tasks to columns, and drag the tasks from column to column
+- Sync your Gmail and Calendar to the built in Mac apps, or find some better ones in the App Store
+
+## Stretch Content
 
 For those of you that have raced through the other tasks, you can watch these optional videos. You will need to have your Pluralsight account setup to watch some of these.
 
