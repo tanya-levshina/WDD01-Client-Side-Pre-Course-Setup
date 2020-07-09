@@ -2,6 +2,10 @@
 
 A set of videos and tutorials that students should watch ***before*** they start on WDD01. What is WDD01? Web Design and Development course 1 - Client-Side Web Development.
 
+## Before orientation week
+
+If you are waiting for the course to start and want to prep now, feel free to read our recommendations on [preparing before orientation week](prepping-before-orientation-week.md)
+
 ## Day 1 - Getting Started with macOS
 
 This section is for anyone new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of acOS.
