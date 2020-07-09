@@ -198,14 +198,23 @@ For those of you that have raced through the other tasks, you can watch these op
 
 - [Command Line Interface](https://app.pluralsight.com/library/courses/meet-command-line)
 
+- Mozilla Developer Network's [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) overview
+
 ## Finished? Some more things to try
 
 ### Get started on HTML
 
 Next week we will be beginning with HTML. You could get a head start by reading about HTML. Some useful links:
 
-- [W3Schools](https://www.w3schools.com/html/default.asp)
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+- W3Schools's [HTML Tutorial](https://www.w3schools.com/html/default.asp)
+- Mozilla Developer Network's [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+
+### Get started on CSS
+
+If you are keen you could also get a head start by reading about CSS. Some useful links:
+
+- W3Schools's [CSS Tutorial](https://www.w3schools.com/css/default.asp)
+- Mozilla Developer Network's [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
 ### Explore code from code sharing websites
 
