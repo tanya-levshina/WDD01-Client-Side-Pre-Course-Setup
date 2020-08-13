@@ -54,14 +54,22 @@ Install the Slack desktop app. Using the desktop app allows you to make video ca
 
 - [Node.js](https://nodejs.org/en/) JavaScript runtime. Make sure to install the LTS version.
 
-* [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
-* Customize VS-Code
+#### VS Code
+
+- [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
+- Customize VS-Code
   - Install: [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - Install: [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - Install: [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
+
+<details>
+   <summary>Disable VS-Code from auto-accepting code suggestions</summary>
+
+Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
 
 ![Disable VS-Code from auto-accepting code suggestions](img/vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
+
+</details>
 
 ### Setting up Pluralsight
 
