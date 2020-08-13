@@ -104,7 +104,8 @@ Let us create and add your public key to GitHub:
    ```bash
    ssh -T git@github.com
    ```
-1. If you receive a "You've successfully authenticated" message then you have successfully added a SSH key to GitHub
+1. If you receive a "You've successfully authenticated, but GitHub does not provide shell access." message then you have successfully added a SSH key to GitHub
+
 
 ![Adding SSH key to GitHub](img/ssh_key_script.gif)
 
