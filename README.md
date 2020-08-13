@@ -15,7 +15,6 @@ First things first. Let us update our Mac to the latest software release:
 This section is for anyone new to using macOS, or are returning to macOS from a much earlier version. Here is a collection of suggested resources to get the ball rolling with the latest version of MacOS:
 
 - [Mac Basics animated walkthrough](https://help.apple.com/macos/catalina/mac-basics).
-
 - [Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216).
 
 ### Some suggested tweaks for your Mac
@@ -105,7 +104,6 @@ Let us create and add your public key to GitHub:
    ssh -T git@github.com
    ```
 1. If you receive a "You've successfully authenticated, but GitHub does not provide shell access." message then you have successfully added a SSH key to GitHub
-
 
 ![Adding SSH key to GitHub](img/ssh_key_script.gif)
 
