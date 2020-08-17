@@ -283,13 +283,13 @@ Watch the following overview of Web Development:
 
 - [Web Development - Executive Briefing](https://app.pluralsight.com/library/courses/web-development-executive-briefing)
 
-If you have completed everything, and are keen to get started, make a head start on what we will be covering next week.
+If you have completed everything above, make a head start on what we will be covering next week.
 
 Watch the following video series on Pluralsight that explains the internet, HTML, CSS, and JavaScript from a big-picture perspective.
 
-You only need to watch the first three modules:
-
 - [HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/)
+
+  You only need to watch the first three modules:
 
   - [ ] Course Overview
   - [ ] Why You Should Care About How the Web Works
@@ -297,11 +297,11 @@ You only need to watch the first three modules:
 
 - [HTML Fundamentals](https://app.pluralsight.com/library/courses/html-fundamentals)
 
-Start with the following Pluralsight modules:
+  Start with the following Pluralsight modules:
 
-- [ ] Working with HTML Documents
-- [ ] Displaying Text
-- [ ] Creating Lists
+  - [ ] Working with HTML Documents
+  - [ ] Displaying Text
+  - [ ] Creating Lists
 
 Start practicing writing HTML on freeCodeCamp:
 
