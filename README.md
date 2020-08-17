@@ -54,26 +54,43 @@ Install the Slack desktop app. Using the desktop app allows you to make video ca
 
 - [Node.js](https://nodejs.org/en/) JavaScript runtime. Make sure to install the LTS version.
 
-#### VS Code
+### VS Code
 
 - [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
-- Customize VS-Code
-  - Install: [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  - Install: [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-  - Install: [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- Customize VS-Code by installing the following extensions:
+  - [ ] [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  - [ ] [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+  - [ ] [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [ ] [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
-<details>
-   <summary>Disable VS-Code from auto-accepting code suggestions</summary>
+### Design
 
-Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
-
-![Disable VS-Code from auto-accepting code suggestions](img/vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
-
-</details>
+- [Adobe XD](https://www.adobe.com/products/xd.html), free software to create designs for websites and mobile apps.
 
 ### Setting up Pluralsight
 
-You will receive an `email invite` in your `student email account`. This will allow you to join Pluralsight with full access to all the Pluralsight videos. These videos will help you build a strong developers foundation.
+You will receive an email invite in your **student email account**. This will allow you to join Pluralsight with full access to all the Pluralsight videos. These videos will help you build a strong developers foundation.
+
+### freeCodeCamp
+
+We will be using freeCodeCamp to practice and learn a lot of our web development. Visit [freeCodeCamp](https://www.freecodecamp.org/) and sign up for an account by clicking the big yellow `Get Started` button. Create an account and sign-in. Once you are signed-in, update your [profile settings](https://www.freecodecamp.org/settings) so the instructors can see your progress. You will need to switch on the following settings from `Private` to `Public`:
+
+- My profile
+- My points
+- My heat map
+- My certification
+- My time line
+
+You can also update the `Username` to something more memorable than the [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) placeholder.
+
+Once you have updated the settings, copy the URL to your freeCodeCamp profile and post it in Slack (in your cohort channel). To get the URL to your profile from the settings page, click the `Show me my public portfolio` button, and copy the URL from the browser address bar.
+
+### Frontend Masters
+
+You will need a Frontend Masters account from week 2. However it's good to sign up and have a look around before then, as there are other courses that might interest you.
+
+1. Go to [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/), and click the red _Get Free Access Now_ button
+2. Create an account, using your `@developersinstitute.co.nz` email address
 
 ## Day 2 - Git and GitHub setup
 
@@ -84,8 +101,21 @@ You will receive an `email invite` in your `student email account`. This will al
 To be able to access the material you will need to setup a GitHub account:
 
 - We will be sending you your GitHub invite via your Developers institute email account.
+- You can use your Developers Institute account to start with, and add your personal email at https://github.com/settings/emails if you want to add your own email address, or vice versa.
 
-- You can use your developers institute account to start with, and add your personal email at https://github.com/settings/emails if you want to add your own email address
+### Sign up for the GitHub Student Developer Pack
+
+GitHub provides a Student Developer Pack, where you can score heaps of freebies.
+
+Sign up here: [GitHub Student Developer Pack](https://education.github.com/pack)
+
+Some of our favourite tools:
+
+- Frontend Masters - A great online tutorial website with all kinds of topics related to web development
+- Canva - Software to make web page designs. It runs in your browser.
+- PomoDone - A productivity tool to help you power through tasks and focus by using the Pomodoro technique
+
+There are a bunch of others, including tutorial websites. Have a look through and sign up for ones that interest you.
 
 ### Setting up an SSH key
 
@@ -117,7 +147,7 @@ Let us create and add your public key to GitHub:
 
 ### Learn the basics of Git
 
-Git is one of the core tools that developers use daily. Watch the [Git Basics](https://git-scm.com/videos) introductory video series on the Git version control system. There are loads of information to absorb so don't feel overwhelmed by it all as long as you know how to `git clone`, `git add`, `git commit` and `git push` you will be all good.
+Git is one of the core tools that developers use daily. Watch the [Git Basics](https://git-scm.com/videos) introductory video series on the Git version control system. There is loads of information to absorb, but we only need to know a small amount of it for now. The main thing to learn is how to `git clone`, `git add`, `git commit` and `git push`.
 
 #### Video tutorial of a GitHub workflow using Visual Studio Code:
 
@@ -127,16 +157,16 @@ Git is one of the core tools that developers use daily. Watch the [Git Basics](h
 
 Work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common GitHub tasks.
 
-### Stretch Content
+At this stage you should have the basic understanding of how to `git clone`, `git add`, `git commit`, `git push`.
+
+`Note:` getting to grips with git is a marathon and not a sprint. So take it easy.
+
+### Optional Content
 
 Get to know git and GitHub better:
 
 - [GitHub Guides](https://guides.github.com/)
 - [GitHub Training & Guides YouTube channel](https://www.youtube.com/user/GitHubGuides/featured)
-
-At this stage you should have the basic understanding of how to `git clone`, `git add`, `git commit`, `git push`.
-
-`Note:` getting to grips with git is a marathon and not a sprint. So take it easy.
 
 ## Day 3
 
@@ -164,7 +194,25 @@ If your email is compromised, you need to fix that by:
    - All three options are plenty secure. KeePassXC is the most secure option, but unfortunately it's not hosted online (passwords saved to your disk, encrypted with your master password)
    - LastPass and Dashlane store passwords on their online server, encrypted with your master password. This allows them to be easily used between multiple computers.
 
-### Set Visual Studio Code as Gits' default merge editor
+### Learn about the command line
+
+You will be using the command line (aka Terminal) every day as a developer, so it's worth spending some time to learn what it is, and how to use it.
+
+- [ ] Start working on the [Learn the Command Line in Terminal](https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal) course on Open Classrooms. You don't have complete the entire course today, but try and get through as much as you can. You can keep re-visiting this tutorial as you like.
+
+### Customise VS Code
+
+<details>
+   <summary>Disable VS-Code from auto-accepting code suggestions</summary>
+
+Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
+
+![Disable VS-Code from auto-accepting code suggestions](img/vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
+
+</details>
+
+<details>
+   <summary>Set Visual Studio Code as Gits' default merge editor</summary>
 
 Save yourself the hassle of having to learn terminal text editors (like vim) by running these 4 commands:
 
@@ -179,29 +227,84 @@ git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
 
 ![Copy past terminal commands](/img/copy_past_terminal.gif)
 
-### Launching Visual Studio Code from the command line
+</details>
+
+<details>
+   <summary>Launching Visual Studio Code from the command line</summary>
 
 You can also run VS Code from the terminal by typing 'code' after adding it to the path:
 
 - Launch VS Code.
 - Open the Command Palette (⇧⌘P) and type `shell command` to find the Shell Command: `Install 'code' command in PATH` command.
 
-  ![shell command](/img/shell-command.png)
+  ![shell command](img/shell-command.png)
 
 - Restart the terminal for the new \$PATH value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder.
 
-## Day 4
+</details>
 
-## Day 5 - How the Internet Works
+## Day 4 - Prepare for study
+
+### Progress check
+
+Go through the following list and see how you're going. Focus on completing the list if you haven't already. If you need help with anything, let your instrutor know.
+
+- [ ] I have a GitHub account
+- [ ] I can `clone`, `add`, `commit`, and `push` to and from Github, using the Terminal in VS Code
+- [ ] I have access to Pluralsight
+- [ ] I have set my default browser to Chrome, Brave or Firefox
+- [ ] I can confidently do a standup with my accountability buddy
+
+### Getting ready to learn
+
+Learning is hard work. Take some time today to think about how you are going to make the most of your time. Below are some helpful tools and links to get you started
+
+- **[Trello](https://trello.com)** - This is a great tool for task management. Create columns such as "To Do", "Today", "Done", then create tasks and drag them between columns. You could use this to keep on top of your workload, and help you focus on one thing at a time
+
+  ![trello](img/trello.gif)
+
+- **[Notion](https://www.notion.so/personal)** - This is like having a second brain. Capture all your notes in one place so you can easily refer back to them. Even if you don't use Notion, make sure you have some tool for capturing notes as you learn.
+
+- **[RunJS](https://runjs.dev/)** - A tool for quickly writing and running JavaScript. Great for practicising or coding along with tutorials
+
+### Practice using design software
+
+There will be opportunities to design user interfaces throughout the course. Spend time today getting familiar with some design software, so when you have the urge to design you know where to start.
+
+We recommend [Adobe XD](https://www.adobe.com/products/xd.html), as it's free and used widely in the industry. You can start by watching [one of our meetings on Adobe XD](https://vimeo.com/445102068/cea82ced13), and then try designing a website or a small part of an interface.
+
+## Day 5 - How the Internet Works, Intro to HTML
+
+Keep focusing on the progress check from Day 4, only continue if you have completed that checklist. Today's material is extra content that will give you a head start, rather than required.
 
 As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
-### Stretch Content
-
-For those of you that have raced through the other tasks, you can watch these optional videos. You will need to have your Pluralsight account setup to watch some of these.
+Watch the following overview of Web Development:
 
 - [Web Development - Executive Briefing](https://app.pluralsight.com/library/courses/web-development-executive-briefing)
 
-- [Git - Big Picture](https://app.pluralsight.com/library/courses/git-big-picture)
+If you have completed everything, and are keen to get started, make a head start on what we will be covering next week.
 
-- [Command Line Interface](https://app.pluralsight.com/library/courses/meet-command-line)
+Watch the following video series on Pluralsight that explains the internet, HTML, CSS, and JavaScript from a big-picture perspective.
+
+You only need to watch the first three modules:
+
+- [HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/)
+
+  - [ ] Course Overview
+  - [ ] Why You Should Care About How the Web Works
+  - [ ] Displaying the Web with HTML
+
+- [HTML Fundamentals](https://app.pluralsight.com/library/courses/html-fundamentals)
+
+Start with the following Pluralsight modules:
+
+- [ ] Working with HTML Documents
+- [ ] Displaying Text
+- [ ] Creating Lists
+
+Start practicing writing HTML on freeCodeCamp:
+
+- [ ] [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+
+If you have finished all of that, take a look at the [course schedule](https://github.com/Developers-Institute/WDD01-Intro-Client-Side-Web-Development) and work your way through the material outlined there.
