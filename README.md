@@ -28,7 +28,7 @@ Install the following software:
 
 ### Version Control
 
-[Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) by opening up the `terminal` (`⌥option` + `spacebar` and then typing "terminal") and typing in the terminal:
+[Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) by opening up the `terminal` (`cmd` + `spacebar` and then typing "terminal") and typing in the terminal:
 
 ```bash
 git --version
