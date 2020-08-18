@@ -135,13 +135,13 @@ Let us create and add your public key to GitHub:
 
    `Note:` Remember to replace "`YOUR_EMAIL_HERE`" with your GitHub email address.
 
-1. The script will automatically copy your public key to your clipboard and open GitHub in your browser. All you need to do is `paste` (⌥option + v) the public key into GitHub and provide it with a title of your choice.
+2. The script will automatically copy your public key to your clipboard and open GitHub in your browser. All you need to do is `paste` (cmd + v) the public key into GitHub and provide it with a title of your choice.
 
-1. There after you need to test the key by running:
+3. There after you need to test the key by running:
    ```bash
    ssh -T git@github.com
    ```
-1. If you receive a "You've successfully authenticated, but GitHub does not provide shell access." message then you have successfully added a SSH key to GitHub
+4. If you receive a "You've successfully authenticated, but GitHub does not provide shell access." message then you have successfully added a SSH key to GitHub
 
 ![Adding SSH key to GitHub](img/ssh_key_script.gif)
 
