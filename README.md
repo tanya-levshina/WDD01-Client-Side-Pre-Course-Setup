@@ -61,7 +61,7 @@ Install the Slack desktop app. Using the desktop app allows you to make video ca
   - [ ] [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - [ ] [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - [ ] [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - [ ] [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+  - [ ] [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
 
 ### Design
 
