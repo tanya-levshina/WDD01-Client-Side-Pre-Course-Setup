@@ -1,72 +1,34 @@
 # WDD01 Client-Side - Orientation Week Pre-Course Setup
 
-A set of videos and tutorials that students should watch ***before*** they start on WDD01. What is WDD01? Web Design and Development course 1 - Client-Side Web Development.
-
-## Before orientation week
-
-If you are waiting for the course to start and want to prep now, feel free to read our recommendations on [preparing before orientation week](prepping-before-orientation-week.md)
+Welcome to the `Developers Institute`. We will be starting our first semester with the `Client-side course`. But for us to truly get stuck into building great websites we need to prepare and sharpen our tools. So the first week we will be running through a `pre-course setup`. This will entail setting up our hardware (Apple Mac), installing required software and getting to grips with how to use our software tools. At any point if you get stuck don't hesitate to ask in your Cohort `Slack channel` for help. Our instructors and teaching assistance monitors those channels and will be more than happy to help you resolve your issue.
 
 ## Day 1 - Getting Started with macOS
 
-This section is for anyone new to using macOS, or are returning to macOS from a much earlier version; a collection of resources to get started with the latest version of acOS.
+### Update Mac
 
-[Mac Basics animated walkthrough](https://help.apple.com/macos/catalina/mac-basics).
+First things first. Let us update our Mac to the latest software release:
 
-[Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216).
+- [How to update the software on your Mac](https://support.apple.com/en-us/HT201541).
 
-### Tasks you must complete:
+### Get to know your Mac
 
-1. [Enable your home folder in finder](https://vimeo.com/431692277/670a619782)
-1. [Enable right mouse click](enable-right-mouse-click-in-macos.md)
+This section is for anyone new to using macOS, or are returning to macOS from a much earlier version. Here is a collection of suggested resources to get the ball rolling with the latest version of MacOS:
 
-## Day 2 - Git and Github setup
+- [Mac Basics animated walkthrough](https://help.apple.com/macos/catalina/mac-basics).
+- [Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216).
 
-### Watch Git intro video
+### Some suggested tweaks for your Mac
 
-Git is one of the core tools that developers use daily. Watch this introductory video series on the Git version control system. 
+- [Enable your home folder in finder](https://vimeo.com/431692277/670a619782)
+- [Enable right mouse click](enable-right-mouse-click-in-macos.md)
 
-* https://git-scm.com/videos
-
-### Setup Github Account
-
-Github is a hugely popular cloud-hosted version of Git used by millions of software teams. The majority of courseware and challenges are hosted in Github code repositories so you will need a Github account to access the course materials. 
-
-Set up a Github account to access the courseware and challenges.
-
-* https://github.com/join
-
-Then work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common Github tasks.
-
-Watch through the [Github walkthough video](https://vimeo.com/433825571/bc1830fb90), and see if you can follow along in your own GitHub account. Try to create and clone a repository, add and commit a file, and push it back to Github. 
-
-## Day 3
-
-### Other Accounts
-
-Students will need to ensure they have a Pluralsight account. There are some links at the bottom of this page for Pluralsight content to watch if you are ahead.
-
-- [Pluralsight](https://www.pluralsight.com/)
-
-Install the Slack desktop app. Using the desktop app allows you to make video calls to instructors and other students, which can be handy when you want a 1:1.
-
-- [Slack](https://slack.com/intl/en-nz/) messaging app.
-- [Make calls in Slack](https://slack.com/intl/en-nz/help/articles/216771908-Make-calls-in-Slack)
-
-### 1:1 with another student
-
-Today you will be randomly assigned another student to catch up with. During the day, give them a call on Slack. Find out some more about each other, and run through what you have done so far for the pre-course setup. Help each other get up to speed by sharing what you have done so far, and tips and tricks you have picked up.
-
-### Git practice, and getting to know each other
-
-Complete today's Git challenge: [Get to know your accountability buddy](git-challenge/git-challenge.md)
-
-## Day 4
+## Software
 
 Install the following software:
 
 ### Version Control
 
-[Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) by opening up the `terminal` (`⌥option` + `spacebar` and then typing "terminal") and typing in the terminal:
+[Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) by opening up the `terminal` (`cmd` + `spacebar` and then typing "terminal") and typing in the terminal:
 
 ```bash
 git --version
@@ -85,25 +47,75 @@ Install a modern web browser, preferably [Google Chrome](https://www.google.com/
 
 Install the Slack desktop app. Using the desktop app allows you to make video calls to instructors and other students, which can be handy when you want a 1:1.
 
-- [Slack](https://slack.com/intl/en-nz/) messaging app.
+- [Slack](https://slack.com/intl/en-nz/) messaging app.Ensure you install the desktop app as this will enable you the ability to make video calls to fellow students and instructors.
 - [Make calls in Slack](https://slack.com/intl/en-nz/help/articles/216771908-Make-calls-in-Slack)
 
 ### Programming tools
 
 - [Node.js](https://nodejs.org/en/) JavaScript runtime. Make sure to install the LTS version.
 
-- [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
-- Customize VS-Code
-  - Install: [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  - Install: [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-  - Install: [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
+### VS Code
 
-      ![Disable VS-Code from auto-accepting code suggestions](vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
+- [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
+- Customize VS-Code by installing the following extensions:
+  - [ ] [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  - [ ] [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+  - [ ] [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [ ] [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+
+### Design
+
+- [Adobe XD](https://www.adobe.com/products/xd.html), free software to create designs for websites and mobile apps.
 
 ### Setting up Pluralsight
 
-You will receive an `email invite` in your `student email account`. This will allow you to join Pluralsight with full access to all the Pluralsight videos. These videos will help you build a strong developers foundation.
+You will receive an email invite in your **student email account**. This will allow you to join Pluralsight with full access to all the Pluralsight videos. These videos will help you build a strong developers foundation.
+
+### freeCodeCamp
+
+We will be using freeCodeCamp to practice and learn a lot of our web development. Visit [freeCodeCamp](https://www.freecodecamp.org/) and sign up for an account by clicking the big yellow `Get Started` button. Create an account and sign-in. Once you are signed-in, update your [profile settings](https://www.freecodecamp.org/settings) so the instructors can see your progress. You will need to switch on the following settings from `Private` to `Public`:
+
+- My profile
+- My points
+- My heat map
+- My certification
+- My time line
+
+You can also update the `Username` to something more memorable than the [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) placeholder.
+
+Once you have updated the settings, copy the URL to your freeCodeCamp profile and post it in Slack (in your cohort channel). To get the URL to your profile from the settings page, click the `Show me my public portfolio` button, and copy the URL from the browser address bar.
+
+### Frontend Masters
+
+You will need a Frontend Masters account from week 2. However it's good to sign up and have a look around before then, as there are other courses that might interest you.
+
+1. Go to [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/), and click the red _Get Free Access Now_ button
+2. Create an account, using your `@developersinstitute.co.nz` email address
+
+## Day 2 - Git and GitHub setup
+
+### Setup GitHub Account
+
+[GitHub](https://github.com/) is a hugely popular cloud-hosted version of Git used by millions of software teams. The majority of courseware and challenges are hosted in GitHub code repositories so you will need a GitHub account to access the course materials.
+
+To be able to access the material you will need to setup a GitHub account:
+
+- We will be sending you your GitHub invite via your Developers institute email account.
+- You can use your Developers Institute account to start with, and add your personal email at https://github.com/settings/emails if you want to add your own email address, or vice versa.
+
+### Sign up for the GitHub Student Developer Pack
+
+GitHub provides a Student Developer Pack, where you can score heaps of freebies.
+
+Sign up here: [GitHub Student Developer Pack](https://education.github.com/pack)
+
+Some of our favourite tools:
+
+- Frontend Masters - A great online tutorial website with all kinds of topics related to web development
+- Canva - Software to make web page designs. It runs in your browser.
+- PomoDone - A productivity tool to help you power through tasks and focus by using the Pomodoro technique
+
+There are a bunch of others, including tutorial websites. Have a look through and sign up for ones that interest you.
 
 ### Setting up an SSH key
 
@@ -115,7 +127,7 @@ The cryptography behind SSH keys ensures that no one can reverse engineer your p
 
 Let us create and add your public key to GitHub:
 
-1. Run the follow script in your terminal:
+1. Run the following script in your terminal:
 
    ```bash
    echo -e $(bash <(curl -s https://raw.githubusercontent.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/master/setup-ssh.sh) YOUR_EMAIL_HERE)
@@ -123,19 +135,48 @@ Let us create and add your public key to GitHub:
 
    `Note:` Remember to replace "`YOUR_EMAIL_HERE`" with your GitHub email address.
 
-1. The script will automatically copy your public key to your clipboard and open GitHub in your browser. All you need to do is `paste` (⌥option + v) the public key into GitHub and provide it with a title of your choice.
+2. The script will automatically copy your public key to your clipboard and open GitHub in your browser. All you need to do is `paste` (cmd + v) the public key into GitHub and provide it with a title of your choice.
 
-1. There after you need to test the key by running:
+3. There after you need to test the key by running:
    ```bash
    ssh -T git@github.com
    ```
-1. If you receive a "You've successfully authenticated" message then you have successfully added a SSH key to GitHub
+4. If you receive a "You've successfully authenticated, but GitHub does not provide shell access." message then you have successfully added a SSH key to GitHub
 
 ![Adding SSH key to GitHub](img/ssh_key_script.gif)
 
+### Learn the basics of Git
+
+Git is one of the core tools that developers use daily. Watch the [Git Basics](https://git-scm.com/videos) introductory video series on the Git version control system. There is loads of information to absorb, but we only need to know a small amount of it for now. The main thing to learn is how to `git clone`, `git add`, `git commit` and `git push`.
+
+#### Video tutorial of a GitHub workflow using Visual Studio Code:
+
+[![Git example](img/git_example_video.jpg)](https://vimeo.com/433825571/bc1830fb90)
+
+### Self-learning Challenge
+
+Work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common GitHub tasks.
+
+At this stage you should have the basic understanding of how to `git clone`, `git add`, `git commit`, `git push`.
+
+`Note:` getting to grips with git is a marathon and not a sprint. So take it easy.
+
+### Optional Content
+
+Get to know git and GitHub better:
+
+- [GitHub Guides](https://guides.github.com/)
+- [GitHub Training & Guides YouTube channel](https://www.youtube.com/user/GitHubGuides/featured)
+
+## Day 3
+
+### Get to know your accountability buddy with git
+
+Complete today's Git challenge: [Get to know your accountability buddy](git-challenge/git-challenge.md)
+
 ### Password management
 
-As a future web developer security needs to always be in front of your mind. Not just when developing websites but, also while managing your own online security.
+As a future web developer security needs to always be in the front of your mind. Not just when developing websites but, also while managing your own online security.
 
 `Password managers` are one of our frontline security tools. Password managers store your login information for all the websites you use and help you log into them automatically. They encrypt your password database with a master password (the master password is the only one you have to remember).It also generates them for you, so that each website has a strong unique password. You only have to remember your master password
 
@@ -149,11 +190,29 @@ If your email is compromised, you need to fix that by:
    - How... Sticky notes? Add a number on the end? No 🤦 ! Time to use a password manager 😎 ...
 1. Use a password manager to generate and remember all your passwords
    - Choose a good master password. Consider a phrase instead of a word. Don't use an old compromised password for this. Don't make it too hard to remember, as forgetting would be a disaster.
-   - Us instructors, use [KeePassXC](https://keepassxc.org/) and [LastPass](https://www.lastpass.com/), and other staff use [Dashlane](https://www.dashlane.com/) and [1Password](https://1password.com/)
-   - All four options are plenty secure. KeePassXC is the most secure option, but unfortunately it's not hosted online (passwords saved to your disk, encrypted with your master password)
-   - LastPass, Dashlane and 1Password store passwords on their online server, encrypted with your master password. This allows them to be easily used between multiple computers.
+   - Us instructors, use [KeePassXC](https://keepassxc.org/) and [LastPass](https://www.lastpass.com/) and other staff use [Dashlane](https://www.dashlane.com/)
+   - All three options are plenty secure. KeePassXC is the most secure option, but unfortunately it's not hosted online (passwords saved to your disk, encrypted with your master password)
+   - LastPass and Dashlane store passwords on their online server, encrypted with your master password. This allows them to be easily used between multiple computers.
 
-### Set Visual Studio Code as Gits' default merge editor
+### Learn about the command line
+
+You will be using the command line (aka Terminal) every day as a developer, so it's worth spending some time to learn what it is, and how to use it.
+
+- [ ] Start working on the [Learn the Command Line in Terminal](https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal) course on Open Classrooms. You don't have complete the entire course today, but try and get through as much as you can. You can keep re-visiting this tutorial as you like.
+
+### Customise VS Code
+
+<details>
+   <summary>Disable VS-Code from auto-accepting code suggestions</summary>
+
+Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
+
+![Disable VS-Code from auto-accepting code suggestions](img/vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
+
+</details>
+
+<details>
+   <summary>Set Visual Studio Code as Gits' default merge editor</summary>
 
 Save yourself the hassle of having to learn terminal text editors (like vim) by running these 4 commands:
 
@@ -165,26 +224,30 @@ git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
 ```
 
 `Note:` copy, paste and run the commands inside your terminal.
+
 ![Copy past terminal commands](/img/copy_past_terminal.gif)
 
-### Launching Visual Studio Code from the command line
+</details>
+
+<details>
+   <summary>Launching Visual Studio Code from the command line</summary>
 
 You can also run VS Code from the terminal by typing 'code' after adding it to the path:
 
 - Launch VS Code.
 - Open the Command Palette (⇧⌘P) and type `shell command` to find the Shell Command: `Install 'code' command in PATH` command.
 
-  ![shell command](/img/shell-command.png)
+  ![shell command](img/shell-command.png)
 
 - Restart the terminal for the new \$PATH value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder.
 
-## Day 5 - How the Internet Works
+</details>
 
-As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+## Day 4 - Prepare for study
 
-## Recap
+### Progress check
 
-Go through the following list and see how you're going. If you need help with anything, let your instrutor know. 
+Go through the following list and see how you're going. Focus on completing the list if you haven't already. If you need help with anything, let your instrutor know.
 
 - [ ] I have a GitHub account
 - [ ] I can `clone`, `add`, `commit`, and `push` to and from Github, using the Terminal in VS Code
@@ -192,57 +255,56 @@ Go through the following list and see how you're going. If you need help with an
 - [ ] I have set my default browser to Chrome, Brave or Firefox
 - [ ] I can confidently do a standup with my accountability buddy
 
-## Stretch Content
+### Getting ready to learn
 
-For those of you that have raced through the other tasks, you can watch these optional videos. You will need to have your Pluralsight account setup to watch some of these.
+Learning is hard work. Take some time today to think about how you are going to make the most of your time. Below are some helpful tools and links to get you started
+
+- **[Trello](https://trello.com)** - This is a great tool for task management. Create columns such as "To Do", "Today", "Done", then create tasks and drag them between columns. You could use this to keep on top of your workload, and help you focus on one thing at a time
+
+  ![trello](img/trello.gif)
+
+- **[Notion](https://www.notion.so/personal)** - This is like having a second brain. Capture all your notes in one place so you can easily refer back to them. Even if you don't use Notion, make sure you have some tool for capturing notes as you learn.
+
+- **[RunJS](https://runjs.dev/)** - A tool for quickly writing and running JavaScript. Great for practicising or coding along with tutorials
+
+### Practice using design software
+
+There will be opportunities to design user interfaces throughout the course. Spend time today getting familiar with some design software, so when you have the urge to design you know where to start.
+
+We recommend [Adobe XD](https://www.adobe.com/products/xd.html), as it's free and used widely in the industry. You can start by watching [one of our meetings on Adobe XD](https://vimeo.com/445102068/cea82ced13), and then try designing a website or a small part of an interface.
+
+## Day 5 - How the Internet Works, Intro to HTML
+
+Keep focusing on the progress check from Day 4, only continue if you have completed that checklist. Today's material is extra content that will give you a head start, rather than required.
+
+As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+
+Watch the following overview of Web Development:
 
 - [Web Development - Executive Briefing](https://app.pluralsight.com/library/courses/web-development-executive-briefing)
 
-- [Git - Big Picture](https://app.pluralsight.com/library/courses/git-big-picture)
+If you have completed everything above, make a head start on what we will be covering next week.
 
-- [Command Line Interface](https://app.pluralsight.com/library/courses/meet-command-line)
+Watch the following video series on Pluralsight that explains the internet, HTML, CSS, and JavaScript from a big-picture perspective.
 
-- Mozilla Developer Network's [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) overview
+- [HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/)
 
-## Finished? Some more things to try
+  You only need to watch the first three modules:
 
-### Get started on HTML
+  - [ ] Course Overview
+  - [ ] Why You Should Care About How the Web Works
+  - [ ] Displaying the Web with HTML
 
-Next week we will be beginning with HTML. You could get a head start by reading about HTML. Some useful links:
+- [HTML Fundamentals](https://app.pluralsight.com/library/courses/html-fundamentals)
 
-- W3Schools's [HTML Tutorial](https://www.w3schools.com/html/default.asp)
-- Mozilla Developer Network's [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+  Start with the following Pluralsight modules:
 
-### Get started on CSS
+  - [ ] Working with HTML Documents
+  - [ ] Displaying Text
+  - [ ] Creating Lists
 
-If you are keen you could also get a head start by reading about CSS. Some useful links:
+Start practicing writing HTML on freeCodeCamp:
 
-- W3Schools's [CSS Tutorial](https://www.w3schools.com/css/default.asp)
-- Mozilla Developer Network's [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [ ] [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 
-### Explore code from code sharing websites
-
-There are many code sharing sites that are helpful to bash out some prototype code, or see how other people write code. Some favourites you could explore and tinker with:
-
-- [Glitch](https://glitch.com/). You can build and deploy applications on this site, but also you can look at other peoples code, and remix it to be your own. They have a [learn to code](https://glitch.com/@glitch/learn-to-code) section too. 
-- [Codepen](https://codepen.io/) is somewhere you can build, test, and discover front-end code. They have an [explore](https://codepen.io/picks/pens/) section where you can find cool Codepens that other people have written. 
-- [CodeSandbox](https://codesandbox.io) is an online tool to write and share code. They have an [explore](https://codesandbox.io/explore) section where you can look at featured CodeSandboxes.
-
-### Deploy a website
-
-There are many tools that make deploying a website easy. If you have an HTML webpage in a GitHub repo, you could try some of the following ways to get it on the internet. If you wanted to try, but don't have an HTML page, let your instructor know and they can help you out. 
-
-- [Netlify](https://www.netlify.com/) - a favourite
-- [GitHub Pages](https://pages.github.com/) - you can deploy websites straight from GitHub
-- [Glitch](https://glitch.com/create) - you can write your HTML on Glitch and it will deploy it to the internet for you
-
-### Get organised
-
-Search around for some productivity tools that might help you study, or improve your experience on your mac. You can find apps in the App Store, that comes with your Mac. Some recommendations:
-
-- [Toggl](https://toggl.com/) - track your time. It helps with self awareness, and understanding your productivy
-- [Toggle blog](https://toggl.com/blog/) - there are great articles on here for time management and to bust procrastination
-- [Pocket](https://getpocket.com/) - an app to save bookmarks for the articles you read
-- [Notion](https://www.notion.so/) - a second brain, document all your thoughts, snippets, or anything you can imagine
-- [Trello](https://trello.com) - a simple task tracking board. Create columns, add tasks to columns, and drag the tasks from column to column
-- Sync your Gmail and Calendar to the built in Mac apps, or find some better ones in the App Store
+If you have finished all of that, take a look at the [course schedule](https://github.com/Developers-Institute/WDD01-Intro-Client-Side-Web-Development) and work your way through the material outlined there.
