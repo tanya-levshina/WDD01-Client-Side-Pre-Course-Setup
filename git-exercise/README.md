@@ -47,7 +47,7 @@ You will create a repository on GitHub, and create a file with questions for you
 
    4. VS Code will popup and ask you where you want to save your cloned repository. Choose a location on your Mac where you want your projects to be stored.
 
-      ![Save repo](git-exercise-08.png);
+      ![Save repo](git-exercise-08.png)
 
 4. Once cloned, open your project. You can do this by clicking `Open` in the popup that appears in the bottom right of VS Code
 
