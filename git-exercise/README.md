@@ -8,7 +8,7 @@ You will create a repository on GitHub, and create a file with questions for you
 
 1. Make a new private repository
 
-   1. Go to [https://GitHub.com](https://GitHub.com), and make sure you are logged in
+   1. Go to [https://github.com](https://github.com), and make sure you are logged in
    2. Click the `New` button, near the top left of the page, to create a new Repository
 
       ![Create repo](git-exercise-01.png)
