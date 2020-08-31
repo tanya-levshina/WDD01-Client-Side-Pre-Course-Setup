@@ -5,17 +5,19 @@ This practice challenge will help you get familiar with `git`, and also help you
 ## Part A: Create questions for your accountability buddy
 
 1. Make a new private repository
+
    1. Go to [https://github.com](https://github.com), and make sure you are logged in
    2. Click the `New` button, near the top left of the page, to create a new Repository
 
       ![Create repo](git-challenge-01.png)
 
-   3. Name the repository `my-accountability-buddy`
+   3. Name the repository `{name}-my-accountability-buddy`, where `{name}` is your github username
    4. Make the repository `Private`
-      
+
       ![Create repo options](git-challenge-02.png)
 
 2. Give your accountability buddy and your instructor access to your repo
+
    1. Once your repository is created, go to the `Settings` tab
    2. Click the `Manage Access` menu item
 
@@ -23,10 +25,11 @@ This practice challenge will help you get familiar with `git`, and also help you
 
    3. Click the `Invite a collaborator` button
    4. Add your instructor and your accountability buddy by email or GitHub username. You might have to ask them for this information.
-   
+
       ![Invite collaborators](git-challenge-04.png)
 
 3. Open VS Code, and clone your new repo
+
    1. If you have no projects open in VS Code, you can click the `Source Control` tab, and click `Clone a repository`
 
       ![Clone repo in VS Code](git-challenge-05.png)
@@ -52,7 +55,7 @@ This practice challenge will help you get familiar with `git`, and also help you
    Do you have any prior knowledge in programming?
 
    What's your favorite way to treat yourself?
-   
+
    What do you do on Sundays?
 
    What makes you grumpy?
@@ -64,22 +67,23 @@ This practice challenge will help you get familiar with `git`, and also help you
    ```
 
 7. Add your own questions at the end of the file
-8. Make sure you save the file. You can tell if a file is unsaved in VS Code, because there will be a dot next to the filename in the file tab. When you save a file, the dot disappears. 
+8. Make sure you save the file. You can tell if a file is unsaved in VS Code, because there will be a dot next to the filename in the file tab. When you save a file, the dot disappears.
 
    ![Unsaved file](git-challenge-14.png)
    ![Saved file](git-challenge-15.png)
 
 9. Commit and push your file back to GitHub
+
    1. Open your VS Code terminal, by selecting `Terminal -> New Terminal` from the VS Code menu
-   
+
       ![Open Terminal in VS Code](git-challenge-10.png)
-   
+
    2. Once the terminal pops up in VS Code, check out what state `git` is in, by typing `git status`. You should see that your `.txt` file is untracked
-   
+
       ![git status](git-challenge-11.png)
-   
+
    3. Add your file to `git` by typing: `git add my-accountability-buddy.txt`. Again, see what change this has made to `git` by typing: `git status` in your terminal. You should see the file has moved into `Changes to be committed`
-   4. Commit this file to `git` by typing: `git commit -m "My accountability buddy questions"`. 
+   4. Commit this file to `git` by typing: `git commit -m "My accountability buddy questions"`.
    5. Push this change back to GitHub, by typing `git push origin`
    6. Find your repository in GitHub, and check that the file was pushed correctly
 
@@ -99,4 +103,3 @@ When your accountability buddy sends you a link to the repo, you can follow the 
 4. Once you have finished answering the questions, save your file
 5. Add, commit and push your changes using Git. You can follow the instructions in Part A for committing and pushing your changes to GitHub.
 6. Let your accountability buddy know you have answered the questions
-
