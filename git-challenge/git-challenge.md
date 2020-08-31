@@ -4,6 +4,8 @@ This practice challenge will help you get familiar with `git`, and also help you
 
 ## Part A: Create questions for your accountability buddy
 
+You will create a repository on GitHub, and create a file with questions for your accountability buddy. They will then clone your repository and update the file with answers to the questions.
+
 1. Make a new private repository
 
    1. Go to [https://github.com](https://github.com), and make sure you are logged in
@@ -34,20 +36,28 @@ This practice challenge will help you get familiar with `git`, and also help you
 
       ![Clone repo in VS Code](git-challenge-05.png)
 
-   2. If you already have a project open, you can use keyboard shortcuts. Type: `cmd-shift-p` to open the command pallete. Then type: `git clone`, you should see it appear in the dropdown, push enter. Select `Clone from GitHub` and then search for your repo: `my-accountability-buddy`
+   2. If you already have a project open, you can use keyboard shortcuts. Type: `cmd-shift-p` to open the command pallete. Then type: `git clone` and push enter:
 
       ![Clone from command pallete](git-challenge-06.png)
+
+   3. Select _Clone from GitHub_. Then type your repository name to find it.
+
       ![Search for repo in command pallete](git-challenge-07.png)
+      ![Search for repo in command pallete](git-challenge-07-1.png)
+
+   4. VS Code will popup and ask you where you want to save your cloned repository. Choose a location on your Mac where you want your projects to be stored.
+
+      ![Save repo](git-challenge-08.png);
 
 4. Once cloned, open your project. You can do this by clicking `Open` in the popup that appears in the bottom right of VS Code
 
-   ![Open repo in VS Code](git-challenge-08.png)
+   ![Open repo in VS Code](git-challenge-08-1.png)
 
-5. Create a new file in your repo, named `my-accountability-buddy.txt`. You can do this by selecting `File -> New File` from the VS Code toolbar. This is at the very top of your screen, in the Mac menu.
+5. Create a new file in your repo, named `my-accountability-buddy.txt`. You can do this by right clicking on your file explorer window, and selecting _New File_
 
    ![Create file in VS Code](git-challenge-09.png)
 
-6. Paste the following template into the `my-accountability-buddy.txt` file
+6. Paste the following template into the `my-accountability-buddy.txt` file. Your accountability buddy will be answering these questions later, so leave the answers blank for now.
 
    ```
    If you picture yourself in the future, after completing this course, what do you see? And how would that affect your life?
@@ -83,8 +93,17 @@ This practice challenge will help you get familiar with `git`, and also help you
       ![git status](git-challenge-11.png)
 
    3. Add your file to `git` by typing: `git add my-accountability-buddy.txt`. Again, see what change this has made to `git` by typing: `git status` in your terminal. You should see the file has moved into `Changes to be committed`
+
+      ![git status](git-challenge-11-1.png)
+
    4. Commit this file to `git` by typing: `git commit -m "My accountability buddy questions"`.
-   5. Push this change back to GitHub, by typing `git push origin`
+
+      ![git status](git-challenge-11-2.png)
+
+   5. Push this change back to GitHub, by typing `git push origin master`
+
+      ![git status](git-challenge-11-3.png)
+
    6. Find your repository in GitHub, and check that the file was pushed correctly
 
       ![File pushed to GitHub](git-challenge-12.png)
