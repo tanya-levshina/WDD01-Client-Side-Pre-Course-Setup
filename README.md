@@ -170,6 +170,9 @@ Let git know what your user name and email address are.
 
    ```bash
    git config --global user.name "[YOUR_NAME]"
+   ```
+   and then
+   ```bash
    git config --global user.email user@developersinstitute.co.nz
    ```
 
