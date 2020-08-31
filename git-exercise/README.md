@@ -1,6 +1,6 @@
 # Get to know your accountability buddy
 
-This practice exercise will help you get familiar with `git`, and also help you get to know your accountability buddy a bit better. Make sure to watch the accompanying video for the [git workflow walkthrough](https://vimeo.com/433825571/bc1830fb90)
+This practice exercise will help you get familiar with `git`, and also help you get to know your accountability buddy a bit better. Make sure to watch the accompanying video for the [git workflow walkthrough](https://vimeo.com/433825571/bc1830fb90).
 
 ## Part A: Create questions for your accountability buddy
 
