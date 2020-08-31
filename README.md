@@ -96,7 +96,7 @@ You will need a Frontend Masters account from week 2. However it's good to sign 
 
 ### Setup GitHub Account
 
-[GitHub](https://github.com/) is a hugely popular cloud-hosted version of Git used by millions of software teams. The majority of courseware and challenges are hosted in GitHub code repositories so you will need a GitHub account to access the course materials.
+[GitHub](https://github.com/) is a hugely popular cloud-hosted version of Git used by millions of software teams. The majority of courseware and projects are hosted in GitHub code repositories so you will need a GitHub account to access the course materials.
 
 To be able to access the material you will need to setup a GitHub account:
 
@@ -153,7 +153,7 @@ Git is one of the core tools that developers use daily. Watch the [Git Basics](h
 
 [![Git example](img/git_example_video.jpg)](https://vimeo.com/433825571/bc1830fb90)
 
-### Self-learning Challenge
+### Self-learning exercise
 
 Work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common GitHub tasks.
 
@@ -172,7 +172,7 @@ Get to know git and GitHub better:
 
 ### Get to know your accountability buddy with git
 
-Complete today's Git challenge: [Get to know your accountability buddy](git-challenge/git-challenge.md)
+Complete today's Git exercise: [Get to know your accountability buddy](git-exercise/README.md)
 
 ### Password management
 
