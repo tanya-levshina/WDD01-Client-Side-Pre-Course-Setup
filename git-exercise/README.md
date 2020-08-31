@@ -77,7 +77,7 @@ You will create a repository on GitHub, and create a file with questions for you
    ```
 
 7. Add your own questions at the end of the file
-8. Make sure you save the file. You can tell if a file is uns because there will be a dot next to the filename in the File tab. When you save a file, the dot disappears.
+8. Make sure you save the file. You can tell if a file is unsaved because there will be a dot next to the filename in the File tab. When you save a file, the dot disappears.
 
    ![Unsaved file](git-exercise-14.png)
    ![Saved file](git-exercise-15.png)
