@@ -161,6 +161,18 @@ At this stage you should have the basic understanding of how to `git clone`, `gi
 
 `Note:` getting to grips with git is a marathon and not a sprint. So take it easy.
 
+### Set up your git config
+
+Let git know what your user name and email address are.
+
+1. Open your terminal. You can do this by typing `cmd-space`, then typing `Terminal` and pushing enter
+2. In your terminal, copy and paste the below code snippet. Replace `"[YOUR NAME]"` and `user@developersinstitute.co.nz` with your name and email. Note that the name has quotes, and the email does not.
+
+   ```bash
+   git config --global user.name "[YOUR_NAME]"
+   git config --global user.email user@developersinstitute.co.nz
+   ```
+
 ### Optional Content
 
 Get to know git and GitHub better:
