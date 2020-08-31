@@ -8,12 +8,12 @@ You will create a repository on GitHub, and create a file with questions for you
 
 1. Make a new private repository
 
-   1. Go to [https://github.com](https://github.com), and make sure you are logged in
+   1. Go to [https://GitHub.com](https://GitHub.com), and make sure you are logged in
    2. Click the `New` button, near the top left of the page, to create a new Repository
 
       ![Create repo](git-exercise-01.png)
 
-   3. Name the repository `{name}-my-accountability-buddy`, where `{name}` is your github username
+   3. Name the repository `{name}-my-accountability-buddy`, where `{name}` is your GitHub username
    4. Make the repository `Private`
 
       ![Create repo options](git-exercise-02.png)
@@ -36,14 +36,14 @@ You will create a repository on GitHub, and create a file with questions for you
 
       ![Clone repo in VS Code](git-exercise-05.png)
 
-   2. If you already have a project open, you can use keyboard shortcuts. Type: `cmd-shift-p` to open the command pallete. Then type: `git clone` and push enter:
+   2. If you already have a project open, you can use keyboard shortcuts. Type: `cmd-shift-p` to open the command palette. Then type: `git clone` and push enter:
 
-      ![Clone from command pallete](git-exercise-06.png)
+      ![Clone from command palette](git-exercise-06.png)
 
    3. Select _Clone from GitHub_. Then type your repository name to find it.
 
-      ![Search for repo in command pallete](git-exercise-07.png)
-      ![Search for repo in command pallete](git-exercise-07-1.png)
+      ![Search for repo in command palette](git-exercise-07.png)
+      ![Search for repo in command palette](git-exercise-07-1.png)
 
    4. VS Code will popup and ask you where you want to save your cloned repository. Choose a location on your Mac where you want your projects to be stored.
 
@@ -53,7 +53,7 @@ You will create a repository on GitHub, and create a file with questions for you
 
    ![Open repo in VS Code](git-exercise-08-1.png)
 
-5. Create a new file in your repo, named `my-accountability-buddy.txt`. You can do this by right clicking on your file explorer window, and selecting _New File_
+5. Create a new file in your repo, named `my-accountability-buddy.txt`. You can do this by right-clicking on your file explorer window, and selecting _New File_
 
    ![Create file in VS Code](git-exercise-09.png)
 
@@ -62,7 +62,7 @@ You will create a repository on GitHub, and create a file with questions for you
    ```
    If you picture yourself in the future, after completing this course, what do you see? And how would that affect your life?
 
-   Do you have any prior knowledge in programming?
+   Do you have any prior knowledge of programming?
 
    What's your favorite way to treat yourself?
 
@@ -70,14 +70,14 @@ You will create a repository on GitHub, and create a file with questions for you
 
    What makes you grumpy?
 
-   Can you tell me a bit about either your ethnic culture (Māori, Tongan, Aussie, Kiwi, South African etc), or your personal culture (foody, outdoor, musician, etc)
+   Can you tell me a bit about either your ethnic culture (Māori, Tongan, Aussie, Kiwi, South African, etc) or your personal culture (foody, outdoor, musician, etc)
 
    How does your culture, influence how you go by your daily routine?
 
    ```
 
 7. Add your own questions at the end of the file
-8. Make sure you save the file. You can tell if a file is unsaved in VS Code, because there will be a dot next to the filename in the file tab. When you save a file, the dot disappears.
+8. Make sure you save the file. You can tell if a file is uns because there will be a dot next to the filename in the File tab. When you save a file, the dot disappears.
 
    ![Unsaved file](git-exercise-14.png)
    ![Saved file](git-exercise-15.png)
@@ -120,5 +120,5 @@ When your accountability buddy sends you a link to the repo, you can follow the 
 2. Open the repo in VS Code
 3. Open `my-accountability-buddy.txt`, and answer the questions
 4. Once you have finished answering the questions, save your file
-5. Add, commit and push your changes using Git. You can follow the instructions in Part A for committing and pushing your changes to GitHub.
+5. Add, commit, and push your changes using Git. You can follow the instructions in Part A for committing and pushing your changes to GitHub.
 6. Let your accountability buddy know you have answered the questions
