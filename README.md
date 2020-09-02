@@ -171,7 +171,9 @@ Let git know what your user name and email address are.
    ```bash
    git config --global user.name "[YOUR_NAME]"
    ```
+
    and then
+
    ```bash
    git config --global user.email user@developersinstitute.co.nz
    ```
@@ -294,32 +296,20 @@ Keep focusing on the progress check from Day 4, only continue if you have comple
 
 As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
-Watch the following overview of Web Development:
+<!-- Watch the following overview of Web Development:
 
 - [Web Development - Executive Briefing](https://app.pluralsight.com/library/courses/web-development-executive-briefing)
 
 If you have completed everything above, make a head start on what we will be covering next week.
 
-Watch the following video series on Pluralsight that explains the internet, HTML, CSS, and JavaScript from a big-picture perspective.
+Watch the following video series on Pluralsight that explains the internet, HTML, CSS, and JavaScript from a big-picture perspective. -->
 
-- [HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/)
+Start learning about how HTML works by watching a course on Frontend Masters, then practice writing HTML on freeCodeCamp.
 
-  You only need to watch the first three modules:
-
-  - [ ] Course Overview
-  - [ ] Why You Should Care About How the Web Works
-  - [ ] Displaying the Web with HTML
-
-- [HTML Fundamentals](https://app.pluralsight.com/library/courses/html-fundamentals)
-
-  Start with the following Pluralsight modules:
-
-  - [ ] Working with HTML Documents
-  - [ ] Displaying Text
-  - [ ] Creating Lists
-
-Start practicing writing HTML on freeCodeCamp:
-
+- [ ] [Complete Intro to Web Development, v2: Learning HTML](https://frontendmasters.com/courses/web-development-v2/) on Frontend Masters.
 - [ ] [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 
-If you have finished all of that, take a look at the [course schedule](https://github.com/Developers-Institute/WDD01-Intro-Client-Side-Web-Development) and work your way through the material outlined there.
+Another excellent resource is [Getting started with the Web
+](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) on MDN.
+
+If you have finished everything, take a look at the [course schedule](https://github.com/Developers-Institute/WDD01-Intro-Client-Side-Web-Development) and work your way through the material outlined there.
