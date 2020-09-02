@@ -306,7 +306,7 @@ Watch the following video series on Pluralsight that explains the internet, HTML
 
 Start learning about how HTML works by watching a course on Frontend Masters, then practice writing HTML on freeCodeCamp.
 
-- [ ] [Complete Intro to Web Development, v2: Learning HTML](https://frontendmasters.com/courses/web-development-v2/) on Frontend Masters.
+- [ ] Complete [Intro to Web Development, v2: Learning HTML](https://frontendmasters.com/courses/web-development-v2/) on Frontend Masters. You only need to focus on the Learning HTML section.
 - [ ] Exercises for [Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) on freeCodeCamp
 
 Another excellent resource is [Getting started with the Web
