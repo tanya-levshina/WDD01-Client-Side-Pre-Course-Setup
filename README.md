@@ -288,7 +288,7 @@ Learning is hard work. Take some time today to think about how you are going to 
 
 There will be opportunities to design user interfaces throughout the course. Spend time today getting familiar with some design software, so when you have the urge to design you know where to start.
 
-We recommend [Adobe XD](https://www.adobe.com/products/xd.html), as it's free and used widely in the industry. You can start by watching [one of our meetings on Adobe XD](https://vimeo.com/445102068/cea82ced13), and then try designing a website or a small part of an interface.
+We recommend [Adobe XD](https://www.adobe.com/products/xd.html), as it's free and used widely in the industry. You can start by watching [Adobe XD Tutorial for Beginners](https://www.youtube.com/watch?v=UIno2VAB5ss) on YouTube (12mins), and then try designing a website or a small part of an interface.
 
 ## Day 5 - How the Internet Works, Intro to HTML
 
