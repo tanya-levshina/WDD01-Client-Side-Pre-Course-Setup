@@ -2,6 +2,10 @@
 
 Welcome to the `Developers Institute`. We will be starting our first semester with the `Client-side course`. But for us to truly get stuck into building great websites we need to prepare and sharpen our tools. So the first week we will be running through a `pre-course setup`. This will entail setting up our hardware (Apple Mac), installing required software and getting to grips with how to use our software tools. At any point if you get stuck don't hesitate to ask in your Cohort `Slack channel` for help. Our instructors and teaching assistance monitors those channels and will be more than happy to help you resolve your issue.
 
+<details>
+<summary>Day 1 - Getting Started with macOS</summary>
+<br>
+
 ## Day 1 - Getting Started with macOS
 
 ### Update Mac
@@ -91,6 +95,12 @@ You will need a Frontend Masters account from week 2. However it's good to sign 
 
 1. Go to [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/), and click the red _Get Free Access Now_ button
 2. Create an account, using your `@developersinstitute.co.nz` email address
+
+</details>
+
+<details>
+<summary>Day 2 - Git and GitHub setup</summary>
+<br>
 
 ## Day 2 - Git and GitHub setup
 
@@ -185,6 +195,12 @@ Get to know git and GitHub better:
 - [GitHub Guides](https://guides.github.com/)
 - [GitHub Training & Guides YouTube channel](https://www.youtube.com/user/GitHubGuides/featured)
 
+</details>
+
+<details>
+<summary>Day 3 - Git and the Command Line</summary>
+<br>
+
 ## Day 3
 
 ### Get to know your accountability buddy with git
@@ -260,9 +276,17 @@ You can also run VS Code from the terminal by typing 'code' after adding it to t
 
 </details>
 
-## Day 4 - Prepare for study
+</details>
 
-### Progress check
+<details>
+<summary>Day 4 - Preparing for Study, How the Internet Works, and HTML</summary>
+<br>
+
+## Day 4 - Preparing for Study, How the Internet Works, and HTML
+
+### Prepare for study
+
+#### Progress check
 
 Go through the following list and see how you're going. Focus on completing the list if you haven't already. If you need help with anything, let your instrutor know.
 
@@ -272,7 +296,7 @@ Go through the following list and see how you're going. Focus on completing the 
 - [ ] I have set my default browser to Chrome, Brave or Firefox
 - [ ] I can confidently do a standup with my accountability buddy
 
-### Getting ready to learn
+#### Getting ready to learn
 
 Learning is hard work. Take some time today to think about how you are going to make the most of your time. Below are some helpful tools and links to get you started
 
@@ -284,25 +308,17 @@ Learning is hard work. Take some time today to think about how you are going to 
 
 - **[RunJS](https://runjs.dev/)** - A tool for quickly writing and running JavaScript. Great for practicising or coding along with tutorials
 
-### Practice using design software
+#### Practice using design software
 
 There will be opportunities to design user interfaces throughout the course. Spend time today getting familiar with some design software, so when you have the urge to design you know where to start.
 
 We recommend [Adobe XD](https://www.adobe.com/products/xd.html), as it's free and used widely in the industry. You can start by watching [Adobe XD Tutorial for Beginners](https://www.youtube.com/watch?v=UIno2VAB5ss) on YouTube (12mins), and then try designing a website or a small part of an interface.
 
-## Day 5 - How the Internet Works, Intro to HTML
-
 Keep focusing on the progress check from Day 4, only continue if you have completed that checklist. Today's material is extra content that will give you a head start, rather than required.
 
+### How the Internet Works, and HTML
+
 As a web developer, you should have at least a basic understanding of the internet, networks and servers. So, have a read through [Mozilla's article on how the internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-
-<!-- Watch the following overview of Web Development:
-
-- [Web Development - Executive Briefing](https://app.pluralsight.com/library/courses/web-development-executive-briefing)
-
-If you have completed everything above, make a head start on what we will be covering next week.
-
-Watch the following video series on Pluralsight that explains the internet, HTML, CSS, and JavaScript from a big-picture perspective. -->
 
 Start learning about how HTML works by watching a course on Frontend Masters, then practice writing HTML on freeCodeCamp.
 
@@ -313,3 +329,5 @@ Another excellent resource is [Getting started with the Web
 ](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) on MDN.
 
 If you have finished everything, take a look at the [course schedule](https://github.com/Developers-Institute/WDD01-Intro-Client-Side-Web-Development) and work your way through the material outlined there.
+
+</details>
