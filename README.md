@@ -63,12 +63,21 @@ We like to use modern web browsers because they have excellent developer tools b
 
 ### Communication
 
+#### Slack
+
 Slack is our main communication hub, where you and your class will talk with each other using text and video chat. You have access to all the instructions and other students, and a lot of chat rooms where different content is shared.
 
 Install the Slack desktop app. Using the desktop app allows you to make video calls to instructors and other students, which can be handy when you want a 1:1.
 
 - [Slack](https://slack.com/intl/en-nz/) messaging app. Ensure you install the desktop app as this will enable you the ability to make video calls to fellow students and instructors.
 - [Make calls in Slack](https://slack.com/intl/en-nz/help/articles/216771908-Make-calls-in-Slack)
+
+
+#### Loom
+
+We share a lot of videos in Loom. Create a Loom account so you can leave comments and feedback on videos that we share.
+
+- [Loom](https://www.loom.com) - create an account on Loom with your Developers Institute email address. Try and stay logged in when you are watching videos.
 
 ### Programming tools
 
@@ -210,7 +219,7 @@ Let git know what your user name and email address are.
 2. In your terminal, copy and paste the below code snippet. Replace `"[YOUR NAME]"` and `user@developersinstitute.co.nz` with your name and email. Note that the name has quotes, and the email does not.
 
    ```bash
-   git config --global user.name "[YOUR_NAME]"
+   git config --global user.name "Bill Murray"
    ```
 
    and then
@@ -237,6 +246,14 @@ Get to know git and GitHub better:
 ### Get to know your accountability buddy with git
 
 Complete today's Git exercise: [Get to know your accountability buddy](git-exercise/README.md)
+
+### Screen sharing
+
+During the course you will need to share your screen on video calls. This might be for an instructor to help you with your code, or for you to demo your work to other students. Make sure you have you screen sharing working in both Slack and your web browser.
+
+To enable screen sharing, you will need to update some mac security settings. Watch the [video tutorial for enabling screen sharing permissions](https://www.loom.com/share/fead2612994348a6a9d7839fcac49656?sharedAppSource=personal_library) on your mac. 
+
+When you are talking to your accountability buddy or another student, test your screen sharing setup with them.
 
 ### Password management
 
