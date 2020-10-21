@@ -30,7 +30,7 @@ This is a mandatory step for you.
 A few simple steps to follow and make this all happen:
 
 - Register your iMac with an Apple ID. Please use your student email, in case you have not been provided with your login data to your new student email, please use your personal email in the meantime.
-- Send a screenshot of the successfully registered/signed in user to Sophia ([recruitment@developersinstitute.ac.nz](mailto:recruitment@developersinstitute.ac.nz))
+- Send a screenshot of the successfully registered/signed in user to [recruitment@developersinstitute.ac.nz](mailto:recruitment@developersinstitute.ac.nz)
 - Do not disconnect your Apple ID under any circumstance
 
 ### Some suggested tweaks for your Mac
