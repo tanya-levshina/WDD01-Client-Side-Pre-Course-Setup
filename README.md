@@ -352,8 +352,8 @@ You can also run VS Code from the terminal by typing 'code' after adding it to t
 Go through the following list and see how you're going. Focus on completing the list if you haven't already. If you need help with anything, let your instrutor know.
 
 - [ ] I have a GitHub account
+- [ ] I have emailed my Apple ID to [recruitment@developersinstitute.ac.nz](mailto:recruitment@developersinstitute.ac.nz)
 - [ ] I can `clone`, `add`, `commit`, and `push` to and from Github, using the Terminal in VS Code
-- [ ] I have access to Pluralsight
 - [ ] I have set my default browser to Chrome, Brave or Firefox
 - [ ] I can confidently do a standup with my accountability buddy
 
