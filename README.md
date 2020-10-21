@@ -21,6 +21,18 @@ This section is for anyone new to using macOS, or are returning to macOS from a 
 - [Mac Basics animated walkthrough](https://help.apple.com/macos/catalina/mac-basics).
 - [Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216).
 
+### Set up an Apple ID
+
+You are also required to register your iMac with an Apple ID as soon as you receive it. 
+
+This is a mandatory step for you.
+
+A few simple steps to follow and make this all happen:
+
+- Register your iMac with an Apple ID. Please use your student email, in case you have not been provided with your login data to your new student email, please use your personal email in the meantime.
+- Send a screenshot of the successfully registered/signed in user to Sophia ([recruitment@developersinstitute.ac.nz](mailto:recruitment@developersinstitute.ac.nz))
+- Do not disconnect your Apple ID under any circumstance
+
 ### Some suggested tweaks for your Mac
 
 - [Enable your home folder in finder](https://vimeo.com/431692277/670a619782)
