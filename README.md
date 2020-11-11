@@ -2,6 +2,13 @@
 
 Welcome to the `Developers Institute`. We will be starting our first semester with the `Client-side course`. But for us to truly get stuck into building great websites we need to prepare and sharpen our tools. So the first week we will be running through a `pre-course setup`. This will entail setting up our hardware (Apple Mac), installing required software and getting to grips with how to use our software tools. At any point if you get stuck don't hesitate to ask in your Cohort `Slack channel` for help. Our instructors and teaching assistance monitors those channels and will be more than happy to help you resolve your issue.
 
+## Effective communication in the workplace
+
+Communication will be key to your growth into the workplace and becoming a great developer. We prefer you to over communicate (tell everybody about how scary your cat is or how often you drink coffee) then to under communicate. At Developers Institute we employ 2 main channels of communication: slack and email.
+
+- Slack is a real time messaging tool to help you stay connected to your team (your cohort) and all the support staff at Developers Institute. Use this to ask programming questions, talk about anime, share funny memes or see what others are up to. This is the playground where you will absorb our culture and become a fellow developer.
+- Email is for formal communication between yourself, the outside world and Developers Institute itself. Please check your email regularly as we will be sending you emails on important events, happenings and dates. This is a vital skill to build as it will be an expected skill in your future workplace environment and thus an expected skill in our workplace. Please make sure your Developers Institute email is working including the associated cohort calendar.
+
 <details>
 <summary>Day 1 - Getting Started with macOS</summary>
 <br>
@@ -23,7 +30,7 @@ This section is for anyone new to using macOS, or are returning to macOS from a 
 
 ### Set up an Apple ID
 
-You are also required to register your iMac with an Apple ID as soon as you receive it. 
+You are also required to register your iMac with an Apple ID as soon as you receive it.
 
 This is a mandatory step for you.
 
@@ -84,7 +91,6 @@ Install the Slack desktop app. Using the desktop app allows you to make video ca
 - [Slack](https://slack.com/intl/en-nz/) messaging app. Ensure you install the desktop app as this will enable you the ability to make video calls to fellow students and instructors.
 - Watch [Getting Started with Slack at Developers Institute](https://www.loom.com/share/a3b3687160364ce8aa9d19e452826736?from_recorder=1)
 - Watch [Making calls in Slack](https://www.loom.com/share/67c6ec6d949641e9b84c106493616c76?from_recorder=1)
-
 
 #### Loom
 
@@ -264,7 +270,7 @@ Complete today's Git exercise: [Get to know your accountability buddy](git-exerc
 
 During the course you will need to share your screen on video calls. This might be for an instructor to help you with your code, or for you to demo your work to other students. Make sure you have you screen sharing working in both Slack and your web browser.
 
-To enable screen sharing, you will need to update some mac security settings. Watch the [video tutorial for enabling screen sharing permissions](https://www.loom.com/share/fead2612994348a6a9d7839fcac49656?sharedAppSource=personal_library) on your mac. 
+To enable screen sharing, you will need to update some mac security settings. Watch the [video tutorial for enabling screen sharing permissions](https://www.loom.com/share/fead2612994348a6a9d7839fcac49656?sharedAppSource=personal_library) on your mac.
 
 When you are talking to your accountability buddy or another student, test your screen sharing setup with them.
 
