@@ -39,10 +39,11 @@ eval "$(ssh-agent -s)"
 
 echo "Setting up ssh config file:"
 tee -a ~/.ssh/config << END
-Host *
+Host github.com
   AddKeysToAgent yes
   UseKeychain yes
   IdentityFile ${SSH_KEYFILE}
+  
 END
 
 ssh-add -K $SSH_KEYFILE
