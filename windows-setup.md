@@ -8,7 +8,7 @@ Windows has introduced a very deeply integrated way of running a Linux operating
 
 ## Requirements
 
-- A motherboard supported with Hyper-V (check your BIOS)
+- A motherboard supported with Hyper-V (check your [BIOS](https://www.youtube.com/watch?v=ncUmWthHrU0))
 - Windows 10 PRO with Insider Preview
 - For x64 systems: Version 1903 or higher, with Build 18362 or higher. Please check the [documentation](https://docs.microsoft.com/en-us/windows/wsl/install-win10#requirements) on the latest recommended version.
   - How to Check what Windows 10 Build you have:
