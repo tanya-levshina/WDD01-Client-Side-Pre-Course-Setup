@@ -15,7 +15,7 @@ Communication will be key to your growth into the workplace and becoming a great
 
 ## Day 1 - Getting Started with macOS
 
-In the case of using a Windows operating system, you will need to follow the following [instruction](./windows-setup.md).
+In the case of using a Windows operating system, you will need to follow the following [instructions](./windows-setup.md).
 
 ### Update Mac
 
