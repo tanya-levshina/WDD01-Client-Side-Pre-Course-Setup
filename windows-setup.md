@@ -18,7 +18,7 @@ Windows has introduced a very deeply integrated way of running a Linux operating
 
 ## WSL2 installation steps
 
-For the most up to date steps, I would recommend following the [windows documentation](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+For the most up to date steps, we would recommend following the [windows documentation](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 Note: When deciding on what Linux distribution to use you can use any but we recommend using the [latest LTS version of Ubuntu](https://ubuntu.com/about/release-cycle)
 
