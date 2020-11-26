@@ -4,7 +4,7 @@ Our normal developer's environment (macOS) is based on a UNIX operating system a
 
 Windows has introduced a very deeply integrated way of running a Linux operating system inside of a Windows environment allowing us to have very similar functionality as with macOS.
 
-[WHat is WSL2](https://youtu.be/48k317kOxqg)
+[What is WSL2](https://youtu.be/48k317kOxqg)
 
 ## Requirements
 
