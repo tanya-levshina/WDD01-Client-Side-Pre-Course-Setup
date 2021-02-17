@@ -338,7 +338,7 @@ git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
 You can also run VS Code from the terminal by typing 'code' after adding it to the path:
 
 - Launch VS Code.
-- Open the Command Palette (⇧⌘P) and type `shell command` to find the Shell Command: `Install 'code' command in PATH` command.
+- Open the Command Palette (cmd + shift + p) and type `shell command` to find the Shell Command: `Install 'code' command in PATH` command.
 
   ![shell command](img/shell-command.png)
 
