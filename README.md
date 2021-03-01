@@ -151,13 +151,6 @@ You can also update the `Username` to something more memorable than the [UUID](h
 
 Once you have updated the settings, copy the URL to your freeCodeCamp profile and post it in Slack (in your cohort channel). To get the URL to your profile from the settings page, click the `Show me my public portfolio` button, and copy the URL from the browser address bar.
 
-### Frontend Masters
-
-You will need a Frontend Masters account from week 2. However it's good to sign up and have a look around before then, as there are other courses that might interest you.
-
-1. Go to [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/), and click the red _Get Free Access Now_ button
-2. Create an account, using your `@developersinstitute.co.nz` email address
-
 </details>
 
 <details>
