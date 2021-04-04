@@ -2,7 +2,7 @@
 
 ## Miro
 
-Being a remote-first company, we need a whiteboard that we can from anywhere. We use a tool called Miro for this,
+Being a remote-first company, we need a whiteboard that we can use from anywhere. We use a tool called Miro for this,
 
 Sign up for a [Miro](https://miro.com/) account using your `@developersinstitute.co.nz` Google Account. This will give you access to our digital whiteboards.
 
