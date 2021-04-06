@@ -5,7 +5,7 @@
 
 Disable VS-Code from auto-accepting code suggestions (as it's suggestions are often wrong):
 
-![Disable VS-Code from auto-accepting code suggestions](img/vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
+![Disable VS-Code from auto-accepting code suggestions](../../img/vscode%20tips%20-%20disable%20auto-accept%20suggestions.png)
 
 </details>
 
