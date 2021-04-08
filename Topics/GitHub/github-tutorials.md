@@ -8,7 +8,7 @@ Git is one of the core tools that developers use daily. Watch the [Git Basics](h
 
 ## Self-learning exercise
 
-Work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common GitHub tasks.
+Work through the [Quick Start tutorial](https://help.github.com/en/github/getting-started-with-github/quickstart) to get familiar with common GitHub tasks. If you are coming from the Student Onboarding Google Classroom Course you can skip the first part, "Set Up Git", as you will already have installed Git and set up your SSH Key.
 
 At this stage you should have the basic understanding of how to `git clone`, `git add`, `git commit`, `git push`.
 
