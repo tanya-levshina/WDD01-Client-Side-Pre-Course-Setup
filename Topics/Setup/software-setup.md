@@ -32,9 +32,11 @@ Install the Slack desktop app. Using the desktop app allows you to make video ca
 
 ### Programming tools
 
+### Node
+
 [Node.js](https://nodejs.org/en/) is a JavaScript runtime, meaning you can run JavaScript outside of a web browser. It's used extensively in web development to both build web-servers, and to run tools on your mac computer to help with web development. You can run local servers, automate annoying tasks and a bunch of other helpful things. You need to install it, as we use a lot of tools that depend on Node.js.
 
-Visit the [Node website](https://nodejs.org/en/). Download and install Node onto your operating system.
+Visit the [Node website](https://nodejs.org/en/). Download and install the LTS version of Node onto your operating system.
 
 ### Visual Studio Code
 
