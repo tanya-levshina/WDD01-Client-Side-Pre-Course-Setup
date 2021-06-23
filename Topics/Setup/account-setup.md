@@ -4,7 +4,7 @@
 
 Being a remote-first company, we need a whiteboard that we can use from anywhere. We use a tool called Miro for this,
 
-Sign up for a [Miro](https://miro.com/) account using your `@developersinstitute.co.nz` Google Account. This will give you access to our digital whiteboards.
+Sign up for a [Miro](https://miro.com/) account using your `@developersinstitute.co.nz` Google Account, then follow the link to [join our organisation](https://miro.com/welcome/V2ttazhQWTY1Y0lUeFFvU3pHWUo5RVBQZ1F3eFhMRDBhanVmd1FOOHlQTThsR3hyNm5jSXdFTTk0dE80eDVrSnwzMDc0NDU3MzQ4NjgyODkwOTA0).
 
 ## Frontend Masters
 
