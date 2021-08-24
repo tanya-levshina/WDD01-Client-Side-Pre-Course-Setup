@@ -7,16 +7,24 @@
 - [Course delivery](#course-delivery)
   - [Overview](#Overview)
   - [Tools used](#tools-used)
-- [Class meeting guide](#class-meet-guide)
+- [Class meeting guide](#class-meeting-guide)
 
-  - [Pre Course](#pre-Course)
+- [Pre Course](#pre-Course)
 
-    - [Task 1: Getting started with google classrooms](#task-1-getting-started-with-google-classrooms)
-    - [Task 2: Set up your Mac](#task-2-set-up-your-mac)
-    - [Task 3: Register your iMac with an Apple ID](#task-3-register-your-imac-with-an-apple-id)
-    - [Task 4: Install a new web browser](#task-4-install-a-new-web-browser)
-    - [Task 5: Say hello in slack](#say-hello-in-slack)
-    - [Task 6: Test your google meet setup](#test-your-google-meet-setup)
+  - [Task 1: Getting started with google classrooms](#task-1-getting-started-with-google-classrooms)
+  - [Task 2: Set up your Mac](#task-2-set-up-your-mac)
+  - [Task 3: Register your iMac with an Apple ID](#task-3-register-your-imac-with-an-apple-id)
+  - [Task 4: Install a new web browser](#task-4-install-a-new-web-browser)
+  - [Task 5: Say hello in slack](#task-5-say-hello-in-slack)
+  - [Task 6: Test your google meet setup](#task-6-test-your-google-meet-setup)
+
+- [O week](#o-week)
+
+  - [Monday](#monday)
+  - [Tuesday](#tuesday)
+  - [Wednesday](#wednesday)
+  - [Thursday](#thursday)
+  - [Friday](#friday)
 
 ---
 
@@ -62,3 +70,69 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 - Formal class meetings are not required for delivering this onboarding course, however the below example is still recommended to familiarise yourself with and it would be a good to setup 1-2 introductory meetings for new cohorts in o-week. Recommendations for Tuesday morning Intro and google classroom tutorial and Friday morning debrief of week.
 - Watch [how to use the class meeting guide](https://www.loom.com/share/ed630a1904d242dfb77dc7d18c2c83e8) for an example of how you might use this in google calendar.
+
+---
+
+# Pre Course
+
+## Task 1: Getting started with Google Classrooms
+
+#### Agenda - whats included for learners in this section:
+
+- [How to use Google Classrooms](https://www.loom.com/share/95ffc782e74b4e8b92f4a0d70b5b5a03)
+
+## Task 2: Set up your Mac
+
+#### Agenda - whats included for learners in this section:
+
+- [Setting up right click](https://www.loom.com/share/680918f5818b407995f51e32c279a79f)
+- [Mac Basics](https://help.apple.com/macos/big-sur/mac-basics/#apps)
+- [Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216)
+- [How to find your files on a Mac](https://www.loom.com/share/b490d727d1734a7b9ff25869cefd2131)
+- [
+  Getting Started on iMac](https://classroom.google.com/u/0/c/MjI2MjUyNjY5NDIw/a/MjI2MjUyNjY5NDMy/details)
+
+## Task 3: Register your iMac with an Apple ID
+
+#### Agenda - whats included for learners in this section:
+
+- [Upload a picture to an assignment in Google Classroom](https://www.loom.com/share/44bf14f45ac84d329b3b096ae76b930d)
+- [Take a screenshot of your Apple ID](https://www.loom.com/share/f9205254b3d7478e928ec4728969ca7d)
+
+#### Tech Lead/TA Notes
+
+- Learners instructed to email us a screenshot of their iMac details
+
+## Task 4: Install a new web browser
+
+#### Agenda - whats included for learners in this section:
+
+- [Installing applications on a Mac](https://www.loom.com/share/1325f420d7aa4871ac5fba2e721b4422)
+- [Google Chrome download](https://www.google.com/chrome/)
+- [Set Google Chrome to your default browser](https://www.loom.com/share/e03cfa6947e14e9d90d5f8a3ead58bc1)
+- [Brave download](https://brave.com/)
+- [Set Brave as your default brower](https://www.loom.com/share/18738e127cc940859d60a16fb352f1bf)
+
+#### Tech Lead/TA Notes
+
+- Learners instructed to choose either Chrome OR Brave as default web browser
+
+## Task 5: Say hello in slack
+
+#### Agenda - whats included for learners in this section:
+
+- [Getting set up on Slack](https://www.loom.com/share/a89e01b4934d4586833a7fe3b010d89e)
+
+#### Tech Lead/TA Notes
+
+- Video walkthrough how to get setup using slack
+
+## Task 6: Test your google meet setup
+
+#### Agenda - whats included for learners in this section:
+
+- [Test Google Meet](https://www.loom.com/share/99dc2698a433456382a159a2b56ee1ed)
+
+#### Tech Lead/TA Notes
+
+- Video walkthrough how to test audio, mic and camera setup in preparation for google meetings.
