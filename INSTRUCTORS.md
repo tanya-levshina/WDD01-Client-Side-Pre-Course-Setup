@@ -148,7 +148,7 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 ## Monday
 
-### Topics:
+### Agenda:
 
 - [How to work through this week](https://www.loom.com/share/5b3db70bce434069b3bd76159bbf385e). Don't forget this [View More](https://www.loom.com/share/bba810c17a2a4ec093eef25f7ede426d) button in google classrooms.
 - [What is web development](https://www.youtube.com/watch?v=ysEN5RaKOlA)
@@ -182,7 +182,7 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 ## Tuesday
 
-### Topics:
+### Agenda:
 
 - [Learn about the command line](https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal)
 - [Install VS Code in your terminal](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/Setup/vs-code.md)
@@ -194,7 +194,7 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 ## Wednesday
 
-### Topics:
+### Agenda:
 
 - Meet your Accountability group, details to be announced.
 - [Join the Talent Engine Classroom and complete your first assignment](https://classroom.google.com/u/0/c/Mjc5OTE0ODQ1OTQx)
@@ -212,4 +212,21 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 ## Thursday
 
+### Agenda:
+
+- [Complete your first GitHub Exercise](https://classroom.google.com/u/0/c/MjI2MjUyNjY5NDIw/a/MjI2MjUyNjY5NDQw/details)
+- [video example](https://classroom.google.com/u/0/c/MjI2MjUyNjY5NDIw/a/MjI2MjUyNjY5NDQw/details)
+- [Practice using design software](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/Design/adobe-xd.md)
+- [Getting ready to learn](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/Project-Management/workflow-tools.md)
+  - [Trello](https://trello.com/)
+  - [Notion](https://www.notion.so/personal)
+  - [RunJS](https://runjs.app/)
+
+### Tech Lead/TA Notes:
+
+- example video above appears to have no sound, perhaps redo.
+- example repo is 2 truths 1 lie. results to be displayed in the future, probably end of friday or monday morning depending on how the learners are tracking through O-Week.
+
 ## Friday
+
+### Agenda:
