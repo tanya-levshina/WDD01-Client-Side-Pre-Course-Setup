@@ -194,6 +194,22 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 ## Wednesday
 
+### Topics:
+
+- Meet your Accountability group, details to be announced.
+- [Join the Talent Engine Classroom and complete your first assignment](https://classroom.google.com/u/0/c/Mjc5OTE0ODQ1OTQx)
+- [Complete git tutorials](https://github.com/Developers-Institute/WDD01-Intro-Client-Side-Web-Development/tree/main/Topics/Git)
+  - Learn [Git](https://www.youtube.com/watch?v=USjZcfj8yxE) in 15mins.
+  - Learn [GitHub](https://www.youtube.com/watch?v=nhNq2kIvi9s) in 20mins.
+- [GitHub Command Line Interface](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/GitHub/github-cli.md)
+- [Set up your git config](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/GitHub/git-config.md)
+
+### Tech Lead/TA Notes:
+
+- accountability groups to be provided to the students at random. based on a class size of 30, recommended to aim for 5 groups of 6 people. This will account for the possibility that some learners may drop out of the course, ie minimise the likelyness reshuffling groups in the future.
+- Tech lead or TA to setup google meetings at 1.30pm to get learners in the habit of daily standups. Aim is to encourage communication and build team culture.
+- Talent engine is a separate google classroom where learners build on tasks towards making themselves employable. This will be introduced to them as an optional highly recommended course to be aware of completing in their own time.
+
 ## Thursday
 
 ## Friday
