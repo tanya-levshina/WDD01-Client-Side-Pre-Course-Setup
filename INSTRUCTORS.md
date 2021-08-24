@@ -18,7 +18,7 @@
   - [Task 5: Say hello in slack](#task-5-say-hello-in-slack)
   - [Task 6: Test your google meet setup](#task-6-test-your-google-meet-setup)
 
-- [O week](#o-week)
+- [O Week](#o-week)
 
   - [Monday](#monday)
   - [Tuesday](#tuesday)
@@ -40,7 +40,7 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 - This course is a prerequisite to commencing any initial DI course and aims to establish setting up learner environments.
 
-- We believe that this will help reduce technological blocks moving forward into the curriculum and establish consistancy in the learning environments.
+- We believe that this will help reduce technological blocks moving forward into the curriculum and establish consistancy in learning environments.
 
 ---
 
@@ -68,8 +68,8 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 # Class meeting guide
 
-- Formal class meetings are not required for delivering this onboarding course, however the below example is still recommended to familiarise yourself with and it would be a good to setup 1-2 introductory meetings for new cohorts in o-week. Recommendations for Tuesday morning Intro and google classroom tutorial and Friday morning debrief of week.
-- Watch [how to use the class meeting guide](https://www.loom.com/share/ed630a1904d242dfb77dc7d18c2c83e8) for an example of how you might use this in google calendar.
+- Formal class meetings are not required for delivering this onboarding course, however the below example is still recommended to familiarise yourself with and it would be good to setup 1-2 introductory meetings for new cohorts in o-week. Recommendations for Tuesday morning Intro & google classroom tutorial and Friday morning debrief of week & segway to curriculum.
+- Watch [how to use the class meeting guide](https://www.loom.com/share/ed630a1904d242dfb77dc7d18c2c83e8) for an example of how you might use this in google calendar to achieve this.
 
 ---
 
@@ -101,7 +101,7 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 #### Tech Lead/TA Notes
 
-- Learners instructed to email us a screenshot of their iMac details
+- Learners instructed to email DI a screenshot of their iMac details
 
 ## Task 4: Install a new web browser
 
@@ -136,3 +136,54 @@ This runbook is a living document, and you can modify and adapt it as you refine
 #### Tech Lead/TA Notes
 
 - Video walkthrough how to test audio, mic and camera setup in preparation for google meetings.
+
+---
+
+# O Week
+
+#### Tech Lead/TA Notes:
+
+- The following brief is a recommended outline for the week. This is based on a 5 day working week and is a recommendation of how long a learner should spend approximately on each task. Monday morning orientation and a lighter work load on friday have been factored into the following itinary.
+- Encourage learners to move onto the next days material if they finish early. An overview of this is provided in the first loom video below.
+
+## Monday
+
+### Topics:
+
+- [How to work through this week](https://www.loom.com/share/5b3db70bce434069b3bd76159bbf385e). Don't forget this [View More](https://www.loom.com/share/bba810c17a2a4ec093eef25f7ede426d) button in google classrooms.
+- [What is web development](https://www.youtube.com/watch?v=ysEN5RaKOlA)
+- [How we work](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/How-we-work/how-we-work.md)
+- [Setup GitHub account](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/GitHub/github-signup.md)
+- Familiarise yourself with the following:
+  - [Student Handbook](https://github.com/Developers-Institute/Student-Handbook)
+  - [Remote Handbook](https://github.com/Developers-Institute/Remote-Handbook/wiki)
+  - [Attendance](https://github.com/Developers-Institute/Remote-Handbook/wiki/Attendance)
+  - [Asking for help](https://github.com/Developers-Institute/Remote-Handbook/wiki/Asking-For-Help)
+- [Using slack 101](https://www.loom.com/share/14b8f63fb7a34ddaa49e3d4e7d1a42b2)
+- [Screen sharing permissions](https://classroom.google.com/u/0/c/MjI2MjUyNjY5NDIw/a/MjI2MjUyNjY5NDY1/details)
+- [Sign up for the GitHub Student Developer Pack](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/GitHub/github-developer-pack.md)
+- [Mac setup](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/Setup/mac-setup.md)
+- [Windows setup](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/Setup/windows-setup.md)
+- [Install software on your computer](https://www.loom.com/share/9c662808140e4b8893f7e0424847f6b1)
+- [Setup accounts](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/Setup/account-setup.md)
+  - [Miro](https://miro.com/)
+  - [Frontend Masters](https://frontendmasters.com/)
+  - [Loom](https://www.loom.com/)
+  - [Free Code Camp](https://www.freecodecamp.org/)
+- [Password Management](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/Setup/password-manager.md)
+- [Day 1 Checklist](https://classroom.google.com/u/0/c/MjI2MjUyNjY5NDIw/a/MjI2MjUyNjY5NDY2/details)
+
+### Tech Lead/TA Notes:
+
+- When giving learners an overview of the week remind them about the view more button for day 1. Video provided above.
+- As of mid 2021, attendance and the asking for help procedure is relatively new - building good learner habits off the bat will set them up well for later in the course.
+- Encourage them to skim read the handbooks and bookmark them for later. They will need to have an understanding of the above bullet point though.
+- Attempt to establish if any learners are using windows, as their initial setup may be a little more complicated.
+
+## Tuesday
+
+## Wednesday
+
+## Thursday
+
+## Friday
