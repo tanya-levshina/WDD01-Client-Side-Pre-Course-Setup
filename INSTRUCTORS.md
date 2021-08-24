@@ -182,6 +182,16 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 ## Tuesday
 
+### Topics:
+
+- [Learn about the command line](https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal)
+- [Install VS Code in your terminal](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup/blob/master/Topics/Setup/vs-code.md)
+
+### Tech Lead/TA Notes:
+
+- learners to build habits of checking google calendar every morning.
+- learners will have a little more time today to catch up if didn't finish yesterday's tasks
+
 ## Wednesday
 
 ## Thursday
