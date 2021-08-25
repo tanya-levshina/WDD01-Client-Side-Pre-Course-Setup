@@ -40,7 +40,7 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 - This course is a prerequisite to commencing any initial DI course and aims to establish setting up learner environments.
 
-- We believe that this will help reduce technological blocks moving forward into the curriculum and establish consistancy in learning environments.
+- We believe that this will help reduce technological blocks moving forward into the curriculum and establish consistancy in learning environments among learners.
 
 ---
 
