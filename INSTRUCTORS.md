@@ -10,7 +10,7 @@
   - [Tools used](#tools-used)
 - [Class meeting guide](#class-meeting-guide)
   - [Day 1: Morning - Welcome event](#day-1-morning---welcome-event)
-  - [Day 2: Afternoon](#day-2-afternoon)
+  - [Day 1: Afternoon](#day-1-afternoon)
   - [Day 2: Morning - Meet the previous cohort](#day-2-morning---meet-the-previous-cohort)
   - [Day 3: Morning - Talent Engine, Remote Handbook & Accountability Groups](#day-3-morning---talent-engine-remote-handbook--accountability-groups)
   - [Day 4: Morning - Team Agreements](#day-4-morning---team-agreements)
