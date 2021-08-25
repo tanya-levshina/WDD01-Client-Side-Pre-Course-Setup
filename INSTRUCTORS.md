@@ -9,20 +9,20 @@
   - [Overview](#overview)
   - [Tools used](#tools-used)
 - [Class meeting guide](#class-meeting-guide)
-    - [Day 1: Morning - Welcome event](#day-1-morning---welcome-event)
-    - [Day 2: Afternoon](#day-2-afternoon)
-    - [Day 2: Morning - Meet the previous cohort](#day-2-morning---meet-the-previous-cohort)
-    - [Day 3: Morning - Talent Engine, Remote Handbook & Accountability Groups](#day-3-morning---talent-engine-remote-handbook--accountability-groups)
-    - [Day 4: Morning - Team Agreements](#day-4-morning---team-agreements)
-    - [Day 5: Morning - Introduction to Tegan from Learner Support, and a Quiz!](#day-5-morning---introduction-to-tegan-from-learner-support-and-a-quiz)
-- [Pre O-week](#pre-o-week)
+  - [Day 1: Morning - Welcome event](#day-1-morning---welcome-event)
+  - [Day 2: Afternoon](#day-2-afternoon)
+  - [Day 2: Morning - Meet the previous cohort](#day-2-morning---meet-the-previous-cohort)
+  - [Day 3: Morning - Talent Engine, Remote Handbook & Accountability Groups](#day-3-morning---talent-engine-remote-handbook--accountability-groups)
+  - [Day 4: Morning - Team Agreements](#day-4-morning---team-agreements)
+  - [Day 5: Morning - Introduction to Tegan from Learner Support, and a Quiz!](#day-5-morning---introduction-to-tegan-from-learner-support-and-a-quiz)
+- [Pre O-week Learner Tasks](#pre-o-week-learner-tasks)
   - [Task 1: Getting started with Google Classrooms](#task-1-getting-started-with-google-classrooms)
   - [Task 2: Set up your Mac](#task-2-set-up-your-mac)
   - [Task 3: Register your iMac with an Apple ID](#task-3-register-your-imac-with-an-apple-id)
   - [Task 4: Install a new web browser](#task-4-install-a-new-web-browser)
   - [Task 5: Say hello in slack](#task-5-say-hello-in-slack)
   - [Task 6: Test your google meet setup](#task-6-test-your-google-meet-setup)
-- [O Week](#o-week)
+- [O Week Learner Material](#o-week-learner-material)
   - [Monday](#monday)
     - [Agenda:](#agenda)
     - [Tech Lead/TA Notes:](#tech-leadta-notes)
@@ -68,7 +68,9 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 # Before O-Week
 
-A lot needs to happen before students join us for their first day. Refer to the [Preparation for Orientation Week - Process](https://github.com/Developers-Institute-Internal/handbook-md/wiki/O-Week-Process) in the handbook to see tasks that need to be done. In particular, search for tasks that are assigned to `Instructor/TA`
+A lot needs to happen before learners join us for their first day. Refer to the [Preparation for Orientation Week - Process](https://github.com/Developers-Institute-Internal/handbook-md/wiki/O-Week-Process) in the handbook to see tasks that need to be done. In particular, search for tasks that are assigned to `Tech Lead and TA`
+
+---
 
 # Course delivery
 
@@ -85,18 +87,20 @@ A lot needs to happen before students join us for their first day. Refer to the 
 
 # Class meeting guide
 
-- Formal class meetings are not required for delivering this onboarding course, however the below example is still recommended to familiarise yourself with and it would be good to setup 1-2 introductory meetings for new cohorts in o-week. Recommendations for Tuesday morning Intro & google classroom tutorial and Friday morning debrief of week & segway to curriculum.
+- Formal class meetings are not required for delivering this onboarding course, however the below example is still recommended to familiarise yourself with and it would be good to setup 1-2 introductory meetings for new cohorts in o-week.
+- Recommendations for Tuesday morning Intro & google classroom tutorial and Friday morning debrief of week & segway to curriculum.
+- Also a good opportunity to introduce new cohort to other learners/staff, talent engine program, team building exercises. Example videos of some of these below.
 - Watch [how to use the class meeting guide](https://www.loom.com/share/ed630a1904d242dfb77dc7d18c2c83e8) for an example of how you might use this in google calendar to achieve this.
 
 ### Day 1: Morning - Welcome event
 
-You will be invited to this meeting by operations. It's an all company event where students are introduced to Developers Institute. You may be expected to talk at this event, check with the meeting organiser.
+You will be invited to this meeting by operations. It's an all company event where learners are introduced to Developers Institute. You may be expected to talk at this event, check with the meeting organiser.
 
 ---
 
-### Day 2: Afternoon
+### Day 1: Afternoon
 
-Students can work through Day 1 in Google Classrooms
+Learners can work through Day 1 in Google Classrooms
 
 ---
 
@@ -110,8 +114,8 @@ There will be opportunity for you to ask questions, and for them to answer quest
 
 #### Learning Objectives
 
-- Let students communicate as a group how they are feeling as they start the course
-- Allow previous students to share their experience to hopefully put them at ease
+- Let learners communicate as a group how they are feeling as they start the course
+- Allow previous learners to share their experience to hopefully put them at ease
 
 #### Tech Lead notes
 
@@ -135,7 +139,7 @@ General format of the meeting:
 
 #### Meeting Agenda
 
-This morning, our career coach Kim will go through our Talent Engine programme. 
+This morning, our career coach Kim will go through our Talent Engine programme.
 
 She will also cover the remote handbook and expectations
 
@@ -143,8 +147,8 @@ Then we will talk about accountability groups and how they will work
 
 #### Learning Objectives
 
-- Let students communicate as a group how they are feeling as they start the course
-- Allow previous students to share their experience to hopefully put them at ease
+- Let learners communicate as a group how they are feeling as they start the course
+- Allow previous learners to share their experience to hopefully put them at ease
 
 #### Tech Lead notes
 
@@ -166,17 +170,17 @@ Organise Kimberley to facilitate this meeting
 
 In this session we will come together as a group and define how we will work together this term.
 
-This will set expectations for both the teaching team and students into how we want to engage each other.
+This will set expectations for both the teaching team and learners into how we want to engage each other.
 
 We will also reflect on these agreements throughout the course to ensure we are meeting them as a group, and modify them if they don't work
 
 #### Learning Objectives
 
-- Set the tone for whats expected from students and instructors
+- Set the tone for whats expected from learners and tech leads
 
 #### Tech Lead notes
 
-You can run this on Miro, and run any format you like to get the team to agree on some shared working agreements. 
+You can run this on Miro, and run any format you like to get the team to agree on some shared working agreements.
 
 #### Duration
 
@@ -216,9 +220,9 @@ We will also do a Kahoot to recap the week
 
 ---
 
-# Pre O-week
+# Pre O-week Learner Tasks
 
-Students complete the following tasks in Google Classroom **before** they join for the first week. This is to make sure they are able to participate in the Orientation Welcome meeting
+Learners complete the following tasks in Google Classroom **before** they join for the first week. This is to make sure they are able to participate in the Orientation Welcome meeting
 
 ## Task 1: Getting started with Google Classrooms
 
@@ -284,7 +288,7 @@ Students complete the following tasks in Google Classroom **before** they join f
 
 ---
 
-# O Week
+# O Week Learner Material
 
 #### Tech Lead/TA Notes:
 
@@ -351,7 +355,7 @@ Students complete the following tasks in Google Classroom **before** they join f
 
 ### Tech Lead/TA Notes:
 
-- accountability groups to be provided to the students at random. based on a class size of 30, recommended to aim for 5 groups of 6 people. This will account for the possibility that some learners may drop out of the course, ie minimise the likelyness reshuffling groups in the future.
+- Accountability groups to be provided to the learners at random. based on a class size of 30, recommended to aim for 5 groups of 6 people. This will account for the possibility that some learners may drop out of the course, ie minimise the likelyness reshuffling groups in the future.
 - Tech lead or TA to setup google meetings at 1.30pm to get learners in the habit of daily standups. Aim is to encourage communication and build team culture.
 - Talent engine is a separate google classroom where learners build on tasks towards making themselves employable. This will be introduced to them as an optional highly recommended course to be aware of completing in their own time.
 
