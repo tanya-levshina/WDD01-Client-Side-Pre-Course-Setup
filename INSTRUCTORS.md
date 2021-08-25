@@ -4,27 +4,40 @@
   - [Introduction](#introduction)
   - [Course philosophy](#course-philosophy)
   - [Terminology](#terminology)
+- [Before O-Week](#before-o-week)
 - [Course delivery](#course-delivery)
-  - [Overview](#Overview)
+  - [Overview](#overview)
   - [Tools used](#tools-used)
 - [Class meeting guide](#class-meeting-guide)
-
-- [Pre Course](#pre-Course)
-
-  - [Task 1: Getting started with google classrooms](#task-1-getting-started-with-google-classrooms)
+    - [Day 1: Morning - Welcome event](#day-1-morning---welcome-event)
+    - [Day 2: Afternoon](#day-2-afternoon)
+    - [Day 2: Morning - Meet the previous cohort](#day-2-morning---meet-the-previous-cohort)
+    - [Day 3: Morning - Talent Engine, Remote Handbook & Accountability Groups](#day-3-morning---talent-engine-remote-handbook--accountability-groups)
+    - [Day 4: Morning - Team Agreements](#day-4-morning---team-agreements)
+    - [Day 5: Morning - Introduction to Tegan from Learner Support, and a Quiz!](#day-5-morning---introduction-to-tegan-from-learner-support-and-a-quiz)
+- [Pre O-week](#pre-o-week)
+  - [Task 1: Getting started with Google Classrooms](#task-1-getting-started-with-google-classrooms)
   - [Task 2: Set up your Mac](#task-2-set-up-your-mac)
   - [Task 3: Register your iMac with an Apple ID](#task-3-register-your-imac-with-an-apple-id)
   - [Task 4: Install a new web browser](#task-4-install-a-new-web-browser)
   - [Task 5: Say hello in slack](#task-5-say-hello-in-slack)
   - [Task 6: Test your google meet setup](#task-6-test-your-google-meet-setup)
-
 - [O Week](#o-week)
-
   - [Monday](#monday)
+    - [Agenda:](#agenda)
+    - [Tech Lead/TA Notes:](#tech-leadta-notes)
   - [Tuesday](#tuesday)
+    - [Agenda:](#agenda-1)
+    - [Tech Lead/TA Notes:](#tech-leadta-notes-1)
   - [Wednesday](#wednesday)
+    - [Agenda:](#agenda-2)
+    - [Tech Lead/TA Notes:](#tech-leadta-notes-2)
   - [Thursday](#thursday)
+    - [Agenda:](#agenda-3)
+    - [Tech Lead/TA Notes:](#tech-leadta-notes-3)
   - [Friday](#friday)
+    - [Agenda:](#agenda-4)
+    - [Tech Lead/TA Notes:](#tech-leadta-notes-4)
 
 ---
 
@@ -53,6 +66,10 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 ---
 
+# Before O-Week
+
+A lot needs to happen before students join us for their first day. Refer to the [Preparation for Orientation Week - Process](https://github.com/Developers-Institute-Internal/handbook-md/wiki/O-Week-Process) in the handbook to see tasks that need to be done. In particular, search for tasks that are assigned to `Instructor/TA`
+
 # Course delivery
 
 ## Overview
@@ -71,9 +88,137 @@ This runbook is a living document, and you can modify and adapt it as you refine
 - Formal class meetings are not required for delivering this onboarding course, however the below example is still recommended to familiarise yourself with and it would be good to setup 1-2 introductory meetings for new cohorts in o-week. Recommendations for Tuesday morning Intro & google classroom tutorial and Friday morning debrief of week & segway to curriculum.
 - Watch [how to use the class meeting guide](https://www.loom.com/share/ed630a1904d242dfb77dc7d18c2c83e8) for an example of how you might use this in google calendar to achieve this.
 
+### Day 1: Morning - Welcome event
+
+You will be invited to this meeting by operations. It's an all company event where students are introduced to Developers Institute. You may be expected to talk at this event, check with the meeting organiser.
+
 ---
 
-# Pre Course
+### Day 2: Afternoon
+
+Students can work through Day 1 in Google Classrooms
+
+---
+
+### Day 2: Morning - Meet the previous cohort
+
+#### Meeting Agenda
+
+We are going to start this week by meeting the cohort ahead of you who completed Client Side last term
+
+There will be opportunity for you to ask questions, and for them to answer questions, as well as introductions and sharing
+
+#### Learning Objectives
+
+- Let students communicate as a group how they are feeling as they start the course
+- Allow previous students to share their experience to hopefully put them at ease
+
+#### Tech Lead notes
+
+As these groups are very large (around 60 people in the call), you can use a tool like [Slido](https://www.sli.do/) to facilitate the meeting with word clouds. An example of questions you could ask in Slido:
+
+![slido example](img/slido-example.png)
+
+General format of the meeting:
+
+- Bring up the Slido, and give the new cohort 5 mins to capture what they are excited about. As words appear on the word clouds discuss the topics raised, with validation, or ask for clarification to get discussion happening. Timebox yourself to 10mins
+- Do the same for the next question - what are you nervous about
+- For the last slide, get the previous cohort to complete the last question (what advice would you give), and as you see words appearing talk to the points that are being raised, and if possible facilitate some discussion.
+
+#### Duration
+
+30mins
+
+---
+
+### Day 3: Morning - Talent Engine, Remote Handbook & Accountability Groups
+
+#### Meeting Agenda
+
+This morning, our career coach Kim will go through our Talent Engine programme. 
+
+She will also cover the remote handbook and expectations
+
+Then we will talk about accountability groups and how they will work
+
+#### Learning Objectives
+
+- Let students communicate as a group how they are feeling as they start the course
+- Allow previous students to share their experience to hopefully put them at ease
+
+#### Tech Lead notes
+
+Organise Kimberley to facilitate this meeting
+
+#### Duration
+
+45mins
+
+#### Example
+
+[Video](https://drive.google.com/file/d/1R2wWskfr6-1xXvwkxcsBAErGcxLqXl72/view?usp=sharing)
+
+---
+
+### Day 4: Morning - Team Agreements
+
+#### Meeting Agenda
+
+In this session we will come together as a group and define how we will work together this term.
+
+This will set expectations for both the teaching team and students into how we want to engage each other.
+
+We will also reflect on these agreements throughout the course to ensure we are meeting them as a group, and modify them if they don't work
+
+#### Learning Objectives
+
+- Set the tone for whats expected from students and instructors
+
+#### Tech Lead notes
+
+You can run this on Miro, and run any format you like to get the team to agree on some shared working agreements. 
+
+#### Duration
+
+45mins
+
+#### Example
+
+[Video](https://drive.google.com/file/d/1y5tUT1Rauu6IvfuUzWFzekBbl4rN3Yhx/view?usp=sharing)
+
+---
+
+### Day 5: Morning - Introduction to Tegan from Learner Support, and a Quiz!
+
+#### Meeting Agenda
+
+Tegan will be presenting a learner support introduction and knowing your support network
+
+We will also do a Kahoot to recap the week
+
+#### Learning Objectives
+
+- Understand the learner support facility at Developers Institute
+- Have a bit of Fun with a quiz
+
+#### Tech Lead notes
+
+- Invite Tegan to this meeting to talk about learner support
+- Example Kahoot: [Git](https://create.kahoot.it/share/git/cd40dae0-f09e-409b-a0bd-97d880115ab1)
+
+#### Duration
+
+30mins
+
+#### Example
+
+[Video](https://drive.google.com/file/d/1dbBAGpEqn7Etpk1xBEUF26r6Re2Z6GL4/view?usp=sharing)
+
+---
+
+# Pre O-week
+
+Students complete the following tasks in Google Classroom **before** they join for the first week. This is to make sure they are able to participate in the Orientation Welcome meeting
 
 ## Task 1: Getting started with Google Classrooms
 
