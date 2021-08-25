@@ -230,3 +230,12 @@ This runbook is a living document, and you can modify and adapt it as you refine
 ## Friday
 
 ### Agenda:
+
+- [Checklist](https://classroom.google.com/u/0/c/MjI2MjUyNjY5NDIw/a/MjI2MjUyNjY5NDYz/details)
+- [Practice HTML for next week](https://classroom.google.com/u/0/c/MjI2MjUyNjY5NDIw/m/MjI2MjUyNjY5NDQ1/details)
+  - [HTML defined](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
+
+### Tech Lead/TA Notes:
+
+- more a catch up day for learners and also optional links that segway into html in preparation for the clientside course.
