@@ -364,6 +364,47 @@ Learners complete the following tasks in Google Classroom **before** they join f
 - Tech lead or TA to setup google meetings at 1.30pm to get learners in the habit of daily standups. Aim is to encourage communication and build team culture.
 - Talent engine is a separate google classroom where learners build on tasks towards making themselves employable. This will be introduced to them as an optional highly recommended course to be aware of completing in their own time.
 
+#### Accountability Groups meeting description
+
+Add the following to the group meeting invitations
+
+----
+
+The intention of this group is to allow you to build relationships with your fellow students, to provide a space to ask and receive help, and a place to keep you accountable for getting through the material on time.
+
+The expectation around your accountability group will be that this group is responsible for ensuring each of the members of the group is on track with working through the material. This can be done by helping each other to complete exercises, self-organised group tuition or pulling in instructors or TA’s for help if required.
+
+In the software industry, it’s common to run a daily meeting called a “stand up”. It’s a daily coordination meeting where a team can identify how their work is flowing, and identify any blockers, and then co-ordinate to help fix the blockers. It’s named a stand up because generally, people will have to stand up in the meeting, this is to encourage keeping it a short meeting. 
+
+Your accountability group will run this meeting themselves. Follow the agenda below:
+
+**Agenda**
+**Nominate a facilitator**
+
+Self-select a person from the group who will be the meeting facilitator. It will be this person’s responsibility to follow the agenda and move the group along
+
+**Attendance check**
+
+The facilitator should check everyone from your group is present. If someone is missing, message them on Slack as a reminder. If you cannot get hold of a missing person, message your instructor and let them know
+
+**Introductions** *10 mins*
+
+Go around the room and introduce yourself. Where are you from? What are your motivations? 
+
+**Standup** *10 mins*
+
+The facilitator initiates a standup. This is a round-robin, where each person in the group answers the following questions:
+
+- What part of the course are you currently working on?
+- What do you intend to complete by the end of the day?
+- Are you blocked (stuck) on anything, and need some help?
+
+If someone is blocked, see if the group can help unblock that person. Otherwise ask for help from outside of the group, either in the cohort channel or from the teaching team
+
+Once everyone has finished their standup, the meeting can be completed.
+
+----
+
 ## Thursday
 
 ### Agenda:
