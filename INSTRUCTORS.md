@@ -133,6 +133,10 @@ General format of the meeting:
 
 30mins
 
+#### Example
+
+[Video](https://drive.google.com/file/d/1yLnVDi7QRX6A5nv2YDY4QefuIXGdktX2/view?usp=sharing)
+
 ---
 
 ### Day 3: Morning - Talent Engine, Remote Handbook & Accountability Groups
