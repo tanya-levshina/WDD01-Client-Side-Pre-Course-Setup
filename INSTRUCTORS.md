@@ -147,8 +147,9 @@ Then we will talk about accountability groups and how they will work
 
 #### Learning Objectives
 
-- Let learners communicate as a group how they are feeling as they start the course
-- Allow previous learners to share their experience to hopefully put them at ease
+- Introduce talent engine seperate google classroom
+- Set up accountability groups for students
+- TA/TL to setup google meetings at 1.30pm to get learners in habit of daily standups and build team culture
 
 #### Tech Lead notes
 
